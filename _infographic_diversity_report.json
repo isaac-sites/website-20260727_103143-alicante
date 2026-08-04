@@ -1,0 +1,6251 @@
+{
+  "generated_at_utc": "2026-08-04T01:51:37.440819Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 260,
+    "pages_review_recommended": 0,
+    "warning_reason_counts": {}
+  },
+  "pages": [
+    {
+      "basename": "A_Coruna_c18697",
+      "title": "The Cases That Shaped A Coruna's UFO History",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "A Coruña Official UFO Chronology",
+        "Interpretations of the Cando Explosion",
+        "A Coruña Case Classifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "A_Coruna_c18697_cando_explosion_lege_ff953e",
+      "title": "How Cando Became A Coruna's UFO Crash Legend",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cando Event Investigation Time line",
+        "Cando Site Evidence Comparison",
+        "Physical Dimensions of Cando Site"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "A_Coruna_c18697_eva10_radar_mystery_4955d5",
+      "title": "Did EVA 10 Track One Object or Several?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "EVA 10 Incident Key Stages 5 December 1989",
+        "Interpretations of EVA 10 Radar Data",
+        "Missing Evidence in EVA 10 Dossier"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "A_Coruna_c18697_ferrol_1966_sighting_35461e",
+      "title": "Why the Ferrol Sighting Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ferrol Sighting Documentation Time line",
+        "Ferrol Case Evidence Gaps",
+        "Components of the Ferrol Dossier"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "A_Coruna_c18697_green_fireball_1993_6eb75d",
+      "title": "Was the 1993 Green Object a Meteor?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "EVA 10 Military Investigation Workflow",
+        "Meteor Fireball vs. Aircraft Indicators",
+        "Evidence Profile of Case 01 MACEN 93"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alava_ef490e",
+      "title": "Alava's UFO Reports Between Mystery And Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Álava UFO Documentation History",
+        "Sceptical Interpretations of Álava Sightings",
+        "Álava Geography and UFO Interest"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alava_ef490e_alava_explanations_ed9bbd",
+      "title": "Why Many Alava UFO Reports Remain Debated",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "UFO Investigation Methodology in Álava",
+        "Sceptical Interpretations of Álava Sightings",
+        "Categorization of Álava UFO Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alava_ef490e_alava_sightings_a102bb",
+      "title": "The Alava UFO Sightings People Reported",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Alava UFO Report Transmission Path",
+        "Interpretation of Alava Sky Phenomena",
+        "Factors Limiting Witness Accuracy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alava_ef490e_guillerna_archives_628562",
+      "title": "The Investigator Who Collected Alava's UFO Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Guillerna's 35 Year Research Time line",
+        "Archive Evidence vs. Scientific Proof",
+        "Key Álava UFO Case Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alava_ef490e_military_ufo_files_0940de",
+      "title": "What Official UFO Files Reveal About Alava",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Spanish Air Force Investigation Workflow",
+        "Military Archive vs. Local Álava Records",
+        "Categories of Spanish UFO Outcomes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Albacete_3f7c9a",
+      "title": "Why Albacete Became Central to Spain's Best Known UFO Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Manises Incident",
+        "Interpretations of the Manises Lights",
+        "Official Records of the Manises Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Albacete_3f7c9a_conventional_light_e_961670",
+      "title": "Could Distant Lights Explain the Manises Mystery?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Manises Incident Observation Key Stages",
+        "Skeptical Interpretations of Manises Lights",
+        "Factors Influencing Visual Misperception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Albacete_3f7c9a_los_llanos_airbase_r_a1508a",
+      "title": "Why Los Llanos Was Ready to Respond",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Manises Scramble Operational Key Stages",
+        "Interpretations of the Manises Lights",
+        "Ala 14 and Los Llanos Capabilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Albacete_3f7c9a_manises_fighter_scra_7594ae",
+      "title": "How Albacete Entered the Manises UFO Incident",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Manises Incident",
+        "Interpretations of the Manises Lights",
+        "Evidence from the Manises File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Albacete_3f7c9a_official_files_evide_a255c3",
+      "title": "What the Official Manises Files Actually Establish",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1979 Manises Incident",
+        "Evidence Quality in Manises Records",
+        "Hierarchy of Manises Evidence Reliability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alicante_46e2a1",
+      "title": "Why Alicante's UFO Files Still Invite Debate",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Aitana EVA 5 Military Radar Time line",
+        "Interpretations of Alicante Radar Anomalies",
+        "Alicante Provincial UFO Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alicante_46e2a1_aitana_1975_incident_fece96",
+      "title": "Was Alicante's Strongest UFO Case Truly Unexplained?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1975 Aitana Incident",
+        "Conventional Explanations for Aitana Sightings",
+        "Evidence Hierarchy of the Aitana Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alicante_46e2a1_aitana_1979_radar_al_82de41",
+      "title": "Why Aitana Scrambled a Fighter in 1979",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in 1979 Aitana Alerts",
+        "Interpretations of the Tamames Lights",
+        "Aitana Air Defense Infrastructure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alicante_46e2a1_aitana_1986_dossier_0e96c6",
+      "title": "What Fell Toward the Sea Off Benidorm?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1986 Aitana Dossier",
+        "Potential Explanations for Benidorm Sighting",
+        "Evidentiary Gaps in the Aitana Dossier"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alicante_46e2a1_costa_blanca_ufo_cul_8512b2",
+      "title": "How UFO Fever Reached the Costa Blanca",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Costa Blanca UFO Media Feedback Loop",
+        "Evidence Gaps in Alicante Sightings",
+        "Mechanisms of Local UFO Authority"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Almeria_5a5611",
+      "title": "Why Almeria Became a Spanish UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Almería UFO History Time line",
+        "Interpretations of Almería Lights",
+        "Categories of Almería UFO Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+      "title": "What Lit Up the Almeria Coast in 1977?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1977 Aguadulce Sighting",
+        "Scientific Explanations for Coastal Lights",
+        "Evidence Quality of the Barrilado Account"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Almeria_5a5611_almeria_1968_militar_1361ed",
+      "title": "What Does Almeria's 1968 UFO File Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Almería 1968 Military File Time line",
+        "Potential Explanations for Almería Light",
+        "Evidential Gaps in the 1968 Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+      "title": "How Almeria's UFO Wave Took Shape",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Almería UFO Feedback Cycle",
+        "Evidence Quality in Almería Reports",
+        "Factors Shaping the 1970 s UFO Wave"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Almeria_5a5611_tahal_fragmented_ufo_a2ad89",
+      "title": "Can Almeria's Fragmented UFO Records Be Trusted?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Tahal Sighting Information Decay Chain",
+        "Tahal Sighting Interpretations",
+        "Regional Luminous Phenomena in Spain"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Asturias_60aedd",
+      "title": "Asturias UFOs Between Mystery and Explanation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Asturias UFO Records",
+        "Rañadoiro Cluster Explanatory Hypotheses",
+        "Asturian UFO Evidence Quality Levels"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Asturias_60aedd_cantabrian_aviation_02c6f1",
+      "title": "When Asturias Shared the Sky With Wider UFO Events",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1971 Tibère Launch",
+        "Interpretations of the Cantabrian Sighting",
+        "Witness Categories in Spanish File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Asturias_60aedd_gijon_1969_balloon_c_39d2c7",
+      "title": "Why Gijon's Official UFO Was Probably a Balloon",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Official Reporting Chain for Gijón 1969",
+        "Gijón Sighting Interpretations",
+        "Physical Characteristics of Gijón Sighting"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Asturias_60aedd_ranadoiro_1989_ufo_f_7e7c01",
+      "title": "What Caused the Ranadoiro UFO Flap?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Ranadoiro UFO Flap",
+        "Proposed Explanations for Ranadoiro Lights",
+        "Witness Accounts of Ranadoiro Phenomena"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Asturias_60aedd_rural_night_light_il_4b476b",
+      "title": "Why Lights Seem to Move in Asturias's Dark Hills",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Social Dynamics of Rural Sightings",
+        "Visual Illusions in Asturias Darkness",
+        "Evidence Quality in Rañadoiro Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Avila_9a1863",
+      "title": "Why Avila Has No Landmark UFO Case",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the 1976 Fireball Narrative",
+        "Ávila Sightings vs. Natural Phenomena",
+        "Space Infrastructure in Cebreros"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Avila_9a1863_1976_fireball_deff6a",
+      "title": "Was Avila's 1976 UFO a Fireball?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1976 Spanish Fireball",
+        "Fireball vs. UFO Interpretations",
+        "Evidence Hierarchy of the 1976 Event"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Avila_9a1863_cebreros_space_myths_6ce3c4",
+      "title": "Does Cebreros Have Any Real UFO Connection?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Cebreros Station Operational History",
+        "Cebreros Operational Roles vs Myths",
+        "Cebreros Facility Infrastructure Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Avila_9a1863_official_files_missi_ec03dd",
+      "title": "Why Avila Is Missing From Spain's UFO Archive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Spain's UFO Declassification Time line",
+        "Interpreting Ávila's Archival Absence",
+        "Military Archive Selection Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Avila_9a1863_rural_misidentificat_408e73",
+      "title": "What Creates UFO Reports in Rural Avila?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Testing Ávila Rural UFO Reports",
+        "Natural Explanations for Gredos Sightings",
+        "Perceptual Distortions in Rural Ávila"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Badajoz_632079",
+      "title": "Badajoz UFO Cases Beyond the Famous Encounter",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Badajoz Provincial UFO Archive Chronology",
+        "Interpretations of the 1976 Talavera Encounter",
+        "Analysis of Badajoz Official Files"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Badajoz_632079_badajoz_declassified_4759df",
+      "title": "What Do Badajoz's Declassified Files Actually Show?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Badajoz UFO Archive Chronology",
+        "Badajoz Archive Evidence Analysis",
+        "Spanish Ministry Declassification Facts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Badajoz_632079_talavera_1976_encoun_3025c5",
+      "title": "Did Something Enter Talavera Air Base?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Talavera la Real Incident Time line",
+        "Interpretations of the Talavera Figure",
+        "Evidence Gaps in the Talavera File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Badajoz_632079_talavera_radar_conta_87d929",
+      "title": "Were Talavera's Radar Targets Real Objects?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Radar Signal Processing Errors",
+        "Talavera Radar Anomaly Explanations",
+        "Talavera Radar Observation Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Badajoz_632079_usagre_1993_sighting_cef5c7",
+      "title": "Did Fireworks Explain the Usagre Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Usagre Sighting Investigation Time line",
+        "Usagre Sighting Interpretations",
+        "Evidence in File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Balearic_Islands_d9fdd5",
+      "title": "When Strange Lights Crossed the Balearic Skies",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of Balearic UFO Phenomena",
+        "Interpretations of the Menorca Encounter",
+        "Evidence Quality in Balearic UFO Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Balearic_Islands_d9fdd5_balearic_likely_expl_2e19f4",
+      "title": "Which Balearic Sightings Have Ordinary Explanations?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Analysis of the 1979 Mallorca Fireball",
+        "Distinguishing Fireballs from Craft",
+        "Factors Distorting Balearic Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Balearic_Islands_d9fdd5_es_vedra_manises_leg_759a66",
+      "title": "Did Es Vedra Really Shape the Manises Mystery?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The 1979 Manises Aviation Key Stages",
+        "Es Vedrà Folklore vs. Documentation",
+        "Elements of Es Vedrà Mythology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Balearic_Islands_d9fdd5_mallorca_ufo_flap_8544be",
+      "title": "How Mallorca's UFO Craze Took Hold",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Mallorca's UFO Fever",
+        "Puig Major Speculation vs Reality",
+        "Factors Fueling Mallorca's Ovnimanía"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Balearic_Islands_d9fdd5_menorca_airport_enco_73bf65",
+      "title": "Why the Menorca Airport Sighting Still Matters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Menorca Airport Encounter Time line",
+        "Interpretations of the Menorca Lights",
+        "Evidence Limitations in Menorca File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Barcelona_122a41",
+      "title": "How Strong Is Barcelona's UFO Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The 1978 Barcelona File Investigation",
+        "Conventional Explanations for Montserrat Lights",
+        "Barcelona's UFO Cultural Ecosystem"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Barcelona_122a41_barcelona_1978_sight_5069e3",
+      "title": "Was Barcelona's 1978 UFO Ever Tracked?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Barcelona UFO File Administrative Path",
+        "Interpretations of the 1978 Sighting",
+        "Evidence Gaps in File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Barcelona_122a41_barcelona_ufo_archiv_10e131",
+      "title": "How Barcelona Built Spain's UFO Archive",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Barcelona UFO Research",
+        "Shifting Interpretations in Barcelona Archives",
+        "Components of the Barcelona Archive"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Barcelona_122a41_declassified_barcelo_8939d9",
+      "title": "What Barcelona's Declassified UFO Files Establish",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "The 1978 Barcelona Radar Inquiry Chain",
+        "Barcelona UFO File Interpretations",
+        "Spanish Air Force Archive Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Barcelona_122a41_montserrat_skywatch_b4c98d",
+      "title": "Why Did Montserrat Become a UFO Landmark?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Montserrat UFO Gatherings",
+        "Plausible Explanations for Montserrat Lights",
+        "Data Gaps in Montserrat Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Biscay_fc6f6b",
+      "title": "How Strong Is Biscay's UFO Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Flight 502 Missing Time Analysis",
+        "Biscay UFO Evidence Categories",
+        "Common Biscay Aerial Explanations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Biscay_fc6f6b_bilbao_airport_ufo_e_6c2f6f",
+      "title": "Why Bilbao's Skies Produce Convincing UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Visual Mechanics of Bilbao Airport UFOs",
+        "Bilbao Airport Sighting Interpretations",
+        "Bilbao Airport Infrastructure Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Biscay_fc6f6b_biscay_official_ufo_0a7dd6",
+      "title": "What Do Spain's UFO Files Say About Biscay?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Spanish Air Force Archive Workflow",
+        "Biscay Case Evidence Gaps",
+        "Components of a Military File"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Biscay_fc6f6b_biscay_sightings_med_b37241",
+      "title": "Which UFO Reports Actually Belong to Biscay?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Biscay UFO Sighting Classifications",
+        "Gallarta Case Evidence Analysis",
+        "Geographical Naming Distinctions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Biscay_fc6f6b_flight_502_missing_t_53d46a",
+      "title": "Did Flight 502 Really Lose Seventeen Minutes?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Flight 502 Diversion Key Stages",
+        "Flight 502 Evidence Analysis",
+        "Flight 502 Data Discrepancies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Burgos_199e01",
+      "title": "How Burgos Turned Strange Lights Into Legends",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Burgos UFO Record Chronology",
+        "Interpretations of the 1970 Sighting",
+        "Burgos Mystery Case Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Burgos_199e01_burgos_1970_pilot_si_7c1b84",
+      "title": "Was Burgos's Photographed UFO a Weather Balloon?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "June 1970 Burgos Sighting Time line",
+        "Burgos Object Identification Analysis",
+        "Evidence Constraints of the Burgos File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Burgos_199e01_fuentecen_close_enco_9e8b73",
+      "title": "Did Anything Land at Fuentecen in 1981?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Fuentecén Encounter Narrative Key Stages",
+        "Interpretations of Fuentecén Ground Marks",
+        "Evidence Gaps in Fuentecén Investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Burgos_199e01_ochate_ufo_photograp_659ab6",
+      "title": "How One Photograph Made Ochate a Mystery Village",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the Ochate Legend",
+        "Interpretations of the Treviño UFO",
+        "Evidence Confidence Levels for Ochate"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Burgos_199e01_quintanaortuno_1975_5a8ab4",
+      "title": "What Did Four Soldiers See Near Quintanaortuno?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Time line of the Quintanaortuño Sighting",
+        "Official Record vs. Popular Narrative",
+        "Air Force Investigation Weaknesses"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Caceres_23e6f5",
+      "title": "How Strong Is Caceres' UFO Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Montánchez File Declassification Time line",
+        "Cáceres Sighting Interpretations",
+        "Likely Explanations for Cáceres Lights"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Caceres_23e6f5_caceres_official_ufo_3b4f28",
+      "title": "Why Is Caceres So Sparse in Official Files?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "diverging_bars"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "Spanish UFO Archive Development Time line",
+        "Cáceres UFO Evidence Hierarchy",
+        "Spanish UFO Archive Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Caceres_23e6f5_ceclavin_lights_folk_d7b688",
+      "title": "How Did Ceclavin's Lights Become a UFO Legend?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Key Stages in Ceclavín Light Lore",
+        "Interpretations of Ceclavín Lights",
+        "Missing Data for 2023 Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Caceres_23e6f5_montanchez_military_81fbd9",
+      "title": "What Does the Montanchez File Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Montánchez Incident Military Time line",
+        "Montánchez Phenomenon Interpretations",
+        "Montánchez Dossier Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Caceres_23e6f5_valencia_alcantara_l_2f3315",
+      "title": "Did Lights Follow Cars Near Valencia de Alcantara?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Valencia de Alcántara Sighting Time line",
+        "Optical Explanations for Car Following Lights",
+        "Valencia de Alcántara Geographic Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.444,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cadiz_bf7148",
+      "title": "Why Cadiz Became a Spanish UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cádiz UFO History Time line",
+        "La Línea 1968 Evidence Analysis",
+        "Common Cádiz Sky Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cadiz_bf7148_jerez_sanlucar_wave_2c94ea",
+      "title": "How a Foggy Road Encounter Became UFO Folklore",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of the Jerez Sanlúcar Case",
+        "Interpretations of the Seat 1500 Movement",
+        "Evidence Gaps in the Cádiz Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cadiz_bf7148_la_linea_1968_file_905edf",
+      "title": "Why the La Linea Sighting Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "La Línea 1968 Investigation Workflow",
+        "Plausible Explanations for La Línea",
+        "Evidence Gaps in File"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+      "title": "Can Cadiz's Later UFO Testimonies Be Verified?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "structure_taxonomy",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Competing Interpretations of Conil 1989",
+        "Cádiz Rural UFO Folklore Elements",
+        "Factors Weakening Late Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cadiz_bf7148_rota_airbase_sightin_fc1b1a",
+      "title": "Do Rota's Military Skies Explain Its UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The 1989 Harrier Disappearance Key Stages",
+        "Military Aviation vs. UFO Interpretations",
+        "Evidence Standards for Rota Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cantabria_c90a8d",
+      "title": "Cantabria's UFO Stories Between Mystery and Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Cantabrian UFO Narratives",
+        "Interpretations of Garabandal Phenomena",
+        "Common Explanations for Cantabrian Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cantabria_c90a8d_garabandal_claims_c59dd3",
+      "title": "Garabandal's Mystery Beyond the Original Claims",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Garabandal Religious Vision Time line",
+        "Garabandal Interpretations Comparison",
+        "Garabandal Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cantabria_c90a8d_sighting_explanation_473668",
+      "title": "Why Strange Lights Appear Over Cantabria",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Spanish Military UFO Investigation Workflow",
+        "Common Sky Misidentifications in Cantabria",
+        "Data Gaps in Cantabrian UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cantabria_c90a8d_sighting_patterns_2fef5d",
+      "title": "The Lights Reported Across Cantabria's Skies",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cantabrian UFO Report Lifecycle",
+        "Cantabrian Sightings Evidence Quality",
+        "Recurring Cantabrian UFO Patterns"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cantabria_c90a8d_ufo_archives_records_ca6c00",
+      "title": "The Records Behind Cantabria's UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Spanish Military UFO File Workflow",
+        "Cantabria Archive Source Comparison",
+        "Categories of Cantabrian UFO Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Castellon_b6b2a8",
+      "title": "Why Castellon's UFO Mysteries Rarely Stay Mysterious",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Vinaròs Sighting Administrative Trail",
+        "Vinaròs Sighting Interpretations",
+        "Castellón Atmospheric Phenomena"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Castellon_b6b2a8_false_alarms_reentri_5a2cd8",
+      "title": "How Ordinary Sky Events Become Castellon UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "March 2024 Mediterranean Fireball Analysis",
+        "Meteor vs. Orbital Re entry Signatures",
+        "Factors Creating False UFO Alarms"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Castellon_b6b2a8_historic_strange_lig_6b631b",
+      "title": "How Castellon Explained Strange Lights Before UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Castellón Sky Phenomena",
+        "Benicàssim Green Light Interpretations",
+        "Classification of Castellón Sky Events"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Castellon_b6b2a8_military_witnesses_r_7c6560",
+      "title": "Why Military Witnesses Did Not Settle the Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Vinaròs Case Administrative Chain",
+        "Castellón Luminous Phenomenon Interpretations",
+        "Military Observation Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Castellon_b6b2a8_vinaros_1983_sightin_108270",
+      "title": "Did the Vinaros Sighting Reveal a Real Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Vinaròs 1983 Sighting Key Stages",
+        "Official Explanations for Vinaròs",
+        "Vinaròs Case Evidence Profile"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ceuta_6791a7",
+      "title": "Ceuta's UFO Mystery Beyond the Radar Trace",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of Ceuta Radar and Sightings",
+        "Technical Explanations for 1954 Radar Returns",
+        "Missing Evidence in Ceuta Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ceuta_6791a7_ceuta_1954_radar_cas_54e796",
+      "title": "What Happened Over Ceuta in December 1954?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Ceuta Radar Contacts",
+        "Interpretations of the Afternoon Radar Track",
+        "Technical Data of the 1954 Track"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ceuta_6791a7_ceuta_evidence_gaps_44eac3",
+      "title": "Why Ceuta's Best UFO Case Remains Unproven",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Ceuta Radar Reports",
+        "Conflicting Narratives of the Ceuta Case",
+        "Required Evidence for Ceuta Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ceuta_6791a7_ceuta_later_sighting_91536c",
+      "title": "How Ceuta's UFO Story Continued After 1954",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of Ceuta UFO Sightings",
+        "Interpretations of the 1999 Formation",
+        "Evidence Gaps in Ceuta Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ceuta_6791a7_ceuta_radar_explanat_07f8f6",
+      "title": "Could Weather or Radar Error Explain Ceuta?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "circuit_board",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Ceuta Radar Contact Explanations",
+        "Radar Signal Distortion Mechanisms",
+        "Evidence Gaps in Ceuta Case"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ciudad_Real_1bcbd0",
+      "title": "How Ciudad Real's UFO Stories Took Shape",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the 1969 Cluster",
+        "Meteor vs. Craft Interpretations",
+        "Ciudad Real Evidence Tiers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ciudad_Real_1bcbd0_air_force_file_ebcc38",
+      "title": "What Does the Air Force File Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Spanish Air Force File 690208 Workflow",
+        "Sacedón vs. Ciudad Real Evidence",
+        "Limitations of File 690208 Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ciudad_Real_1bcbd0_february_1969_cluste_e40e0d",
+      "title": "Did Three Nights Produce One UFO Flap?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "February 1969 Ciudad Real Sightings",
+        "Meteor vs. UFO Interpretations",
+        "Sacedón Case Evidence Quality"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ciudad_Real_1bcbd0_la_atalaya_lights_a3f322",
+      "title": "How La Atalaya Turned Lights Into Legend",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of La Atalaya Folklore",
+        "Potential Explanations for 2004 Lights",
+        "Evidential Gaps in La Atalaya Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ciudad_Real_1bcbd0_meteor_explanation_4588d9",
+      "title": "Could a Fireball Explain the 1969 Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Visual Features of 1969 Fireballs",
+        "Meteor vs. Craft Interpretations",
+        "Evidence Gaps in 1969 Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cordoba_c65d18",
+      "title": "Why Cordoba's UFO History Resists Easy Answers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Córdoba Aerial Mysteries",
+        "Peñarroya Rock Art Interpretations",
+        "Córdoba Evidence Credibility Scale"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cordoba_c65d18_1966_roadside_encoun_7561de",
+      "title": "Can Cordoba's 1966 Encounter Be Verified?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "diverging_bars",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "data",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Córdoba Roadside Narrative",
+        "Missing Evidence in the Córdoba Case",
+        "Classification of the 1966 Roadside Encounter"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cordoba_c65d18_identified_aerial_li_cd6976",
+      "title": "When Cordoba's Strange Lights Had Ordinary Causes",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Identifying Córdoba Aerial Lights Procedure",
+        "Córdoba Aerial Phenomena Explanations",
+        "Visual Clues for Aerial Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cordoba_c65d18_missing_landmark_cas_c00ed1",
+      "title": "Why Cordoba Has No Landmark UFO Case",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "versus",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Córdoba UFO Folklore vs. Documentation",
+        "Criteria for Spanish Landmark Cases",
+        "Analysis of Recent Córdoba Fireballs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cordoba_c65d18_penarroya_rock_art_c_a0a292",
+      "title": "Do Penarroya's Paintings Show an Ancient UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Peñarroya Rock Art History",
+        "Peñarroya Panel Interpretations",
+        "Peñarroya Schematic Art Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cuenca_18bceb",
+      "title": "Cuenca's UFO Stories Under the Evidence Test",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Chronology of Cuenca Aerial Phenomena",
+        "Interpretations of the 1968 Cuenca Sighting",
+        "Evidence Quality in Cuenca UFO Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cuenca_18bceb_cuenca_1968_balloon_3d18f3",
+      "title": "Was Cuenca's Best UFO Case a Balloon?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Time line of the 1968 Cuenca Sighting",
+        "Cuenca Sighting Interpretations",
+        "Evidence from the 1968 Air Force File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cuenca_18bceb_cuenca_village_sight_ceac99",
+      "title": "Why Cuenca's Later Village Sightings Remain Unclear",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in Cuenca Village Sightings",
+        "Interpretations of Santa Cruz de Moya Orbs",
+        "Evidence Gaps in Village Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cuenca_18bceb_september_1968_ufo_w_d38162",
+      "title": "How Cuenca Fit Spain's September 1968 UFO Wave",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "September 1968 Spanish Sighting Key Stages",
+        "Cuenca Sighting Interpretations",
+        "Visual Descriptions of Spanish Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cuenca_18bceb_villares_1953_landin_bb73b0",
+      "title": "Did Anything Land Near Villares del Saz?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Villares del Saz Encounter",
+        "Evidence Quality in the Villares del Saz Case",
+        "Reported Features of the 1953 Encounter"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gipuzkoa_c8b477",
+      "title": "Gipuzkoa's UFO Stories Between Mystery And Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1985 Gipuzkoa UFO Chase",
+        "Interpretations of the Gipuzkoa UFO Reports",
+        "Factors Influencing Gipuzkoa UFO Folklore"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gipuzkoa_c8b477_1985_ufo_chase_21c4d3",
+      "title": "The Gipuzkoa UFO Chase That Became A Legend",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1985 Gipuzkoa Chase",
+        "Interpretations of the Gipuzkoa Light",
+        "Evidence Profile of the 1985 Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gipuzkoa_c8b477_local_press_reports_b7d3e9",
+      "title": "How Gipuzkoa's UFO Reports Spread Locally",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "The 1985 Gipuzkoa UFO Media Chain",
+        "Interpretations of the 1985 Light",
+        "Functions of Gipuzkoa Press Archives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gipuzkoa_c8b477_sighting_explanation_473668",
+      "title": "Why Strange Lights Fooled Gipuzkoa Observers",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The 1985 Gipuzkoa UFO Chase Key Stages",
+        "Gipuzkoa Atmospheric and Astronomical Factors",
+        "Evidence Components for UFO Investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gipuzkoa_c8b477_spanish_ufo_files_3767cd",
+      "title": "What Spanish UFO Files Reveal About Gipuzkoa",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Spanish Military UFO Investigation Workflow",
+        "Gipuzkoa 1985 Chase Interpretations",
+        "Spanish UFO Archive Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Girona_1912ef",
+      "title": "Girona's UFO Cases: Solved, Weak and Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Girona UFO Documentation Time line",
+        "Interpretations of the Roses Sighting",
+        "Girona UFO Archive Sources"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Girona_1912ef_blanes_disc_missing_6de66f",
+      "title": "Why the Blanes Disc Report Remains Weak",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Blanes Sighting Time line of 1982",
+        "Interpretations of the Blanes Craft",
+        "Missing Evidence in Blanes File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Girona_1912ef_girona_airport_ballo_1377c5",
+      "title": "How Girona Airport Solved Its UFO Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Girona Airport Official Reporting Chain",
+        "Balloon vs. Anomalous Craft Evidence",
+        "Girona Airport Observation Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Girona_1912ef_girona_declassified_1bb91c",
+      "title": "What Girona's Declassified UFO Files Actually Show",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "timeline_vertical",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Spanish Air Force Reporting Workflow",
+        "Girona Case Study Outcomes",
+        "Archive Label Definitions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Girona_1912ef_roses_radar_sighting_2cc39e",
+      "title": "What Happened Above the Roses Radar Station?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Roses Sighting",
+        "Interpretations of the EVA 4 Phenomenon",
+        "Technical Data from the Roses Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Granada_3f7db9",
+      "title": "Granada's UFO History Beyond the Motril Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "gem"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Key Stages in the Motril Interception",
+        "Interpretations of the Motril Anomalies",
+        "Evidence Quality in the Motril Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Granada_3f7db9_motril_electronic_wa_748ff9",
+      "title": "Did Electronic Warfare Create Motril's Strangest Signals?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Motril Incident Radio Transmission Key Stages",
+        "Motril Radio Explanations Comparison",
+        "Electronic Warfare Capabilities Taxonomy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Granada_3f7db9_motril_interception_bc6def",
+      "title": "Why the Motril Interception Still Resists a Simple Answer",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Motril Interception Mission Time line",
+        "Interpretations of the Motril Evidence",
+        "Motril Case Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Granada_3f7db9_motril_refraction_th_70f831",
+      "title": "Could Sea Air Refraction Explain the Motril Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Atmospheric Refraction Mechanism Over Sea",
+        "Motril Lights Evidence Analysis",
+        "Motril Case Observational Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Granada_3f7db9_november_1979_cluste_ccecb1",
+      "title": "Was Motril Part of a Wider November UFO Flap?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "November 1979 Spanish Sighting Key Stages",
+        "Valencia Incident Explanatory Hypotheses",
+        "Distinctive Features of the Cluster"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Guadalajara_2d19b1",
+      "title": "One Sighting, Two Verdicts, A Lasting Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Sacedón UFO Case Key Stages",
+        "Sacedón Sighting Interpretations",
+        "Sacedón Evidence Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Guadalajara_2d19b1_air_force_file_ebcc38",
+      "title": "Why the Air Force Changed Its Sacedon Verdict",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sacedón Case Official Time line",
+        "Sacedón Interpretation Shift",
+        "Sacedón Investigation Constraints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Guadalajara_2d19b1_meteor_explanation_4588d9",
+      "title": "Does a Fireball Explain the Sacedon UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Sacedón Fireball Physical Characteristics",
+        "Sacedón Sighting Interpretations",
+        "Evidence Requirements for Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Guadalajara_2d19b1_reservoir_legend_b5c16e",
+      "title": "How Sacedon Became a Reservoir UFO Legend",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Sacedón UFO Narrative Evolution",
+        "Sacedón Official File vs. Legend",
+        "Evidence Gaps in Sacedón Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Guadalajara_2d19b1_sacedon_sighting_340869",
+      "title": "What Did the Sacedon Witnesses Actually See?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sacedón UFO Investigation Time line",
+        "Sacedón Case Interpretations",
+        "Sacedón Evidence Quality Profile"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Huelva_bc0cde",
+      "title": "Huelva's UFO Stories and the Evidence Behind Them",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Huelva UFO Key Stages and Landmarks",
+        "Interpretations of the Doñana Encounter",
+        "Conventional Explanations for Huelva Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Huelva_bc0cde_aracena_2025_light_251d0d",
+      "title": "What Did Aracena Witnesses See in 2025?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Aracena Sighting Observation Time line",
+        "Perceptual Effects in Sierra de Huelva",
+        "Required Evidence for Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Huelva_bc0cde_donana_1969_encounte_88034b",
+      "title": "Was the Doñana Light a Fireball or Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Manuel Espinar’s Doñana Encounter Key Stages",
+        "Doñana Sighting Interpretations",
+        "Evidence Quality in Doñana Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Huelva_bc0cde_early_sightings_1968_ed9e3f",
+      "title": "How Huelva's First UFO Wave Took Shape",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Huelva UFO Chronology Milestones",
+        "Interpretations of 1968 Huelva Lights",
+        "Evidence Gaps in Huelva UFO Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Huelva_bc0cde_el_arenosillo_aerosp_532406",
+      "title": "How El Arenosillo Complicates Huelva UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "El Arenosillo Aerospace Evolution",
+        "Aerospace Activity vs. UFO Reports",
+        "Verifying Huelva Coastal Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Huesca_59c1aa",
+      "title": "Huesca's UFO Stories Under the Evidence Test",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Huesca UFO Key Stages and Records",
+        "Interpretations of the 1971 Sightings",
+        "Evidence Quality in Huesca UFO Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Huesca_59c1aa_barbastro_lights_pow_446103",
+      "title": "Did Barbastro's Strange Lights Cause the Power Cuts?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Barbastro 1995 UFO Narrative Time line",
+        "Barbastro Evidence Quality Comparison",
+        "Required Data for Barbastro Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Huesca_59c1aa_huesca_1971_mass_sig_9c6c81",
+      "title": "Why the 1971 Huesca Sighting Was Probably Explained",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1971 Huesca Sighting",
+        "Interpretations of the Luminous Display",
+        "Diverse Witness Accounts in Spain"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Huesca_59c1aa_pusilibro_ufo_flap_46bc12",
+      "title": "How Pusilibro Became Huesca's Defining UFO Legend",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Pusilibro UFO Legend Key Stages",
+        "Pusilibro Photographic Evidence Analysis",
+        "Pusilibro Social Phenomenon Drivers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Huesca_59c1aa_tardienta_lights_and_c3dfaf",
+      "title": "Are Tardienta's Strange Lights UFOs or Drones?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Tardienta Aerial Activity Time line",
+        "Drone vs. UFO Identification Factors",
+        "Evidence Hierarchy for Aerial Anomalies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Jaen_6daea8",
+      "title": "Jaen's UFO Stories Between Evidence and Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Jaén UFO Chronology 1950 2018",
+        "Linares 1952 Evidence Analysis",
+        "Conventional Explanations for Jaén Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Jaen_6daea8_early_jaen_sightings_4ce186",
+      "title": "Jaen's Early UFO Waves Before the Famous Cases",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Early Jaén UFO Reporting Time line",
+        "Linares Sighting Interpretations",
+        "Common Early Jaén UFO Descriptions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Jaen_6daea8_linares_1952_archive_3e034f",
+      "title": "The Linares UFO Report and Its Cold War Archive",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Linares UFO Archival Time line",
+        "Linares Sighting Interpretations",
+        "CIA Archive Data Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Jaen_6daea8_los_villares_encount_b45d5b",
+      "title": "Los Villares and Jaen's Famous Close Encounter",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Los Villares Encounter",
+        "Interpretations of the Lucerillo Stone",
+        "Key Elements of the Los Villares Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Jaen_6daea8_sierra_morena_report_afa09a",
+      "title": "Why Sierra Morena Became Jaen's UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Common Sources of Sky Confusion",
+        "Sierra Morena Observation Interpretations",
+        "Factors Shaping Sierra Morena Folklore"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "La_Rioja_a6a1e6",
+      "title": "La Rioja's UFO Cases Beyond The Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in La Rioja UFO Records",
+        "Agoncillo Sighting Interpretations",
+        "Evidence Hierarchy in La Rioja"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "La_Rioja_a6a1e6_1970s_ufo_wave_908a2e",
+      "title": "The UFO Wave That Shaped La Rioja",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "La Rioja UFO History Time line",
+        "Folklore vs. Documented Cases",
+        "Layers of La Rioja UFO History"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.571,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "La_Rioja_a6a1e6_agoncillo_case_90e8f6",
+      "title": "Why the Agoncillo UFO Case Still Matters",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Agoncillo Aerodrome Sighting Time line",
+        "Agoncillo Sighting Interpretations",
+        "Agoncillo Witness Observations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "La_Rioja_a6a1e6_aviation_links_07ea7f",
+      "title": "Why Airfields Produce UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Agoncillo Aerodrome Military History",
+        "1978 Agoncillo Observation Interpretations",
+        "Military Observation Strengths and Limits"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "La_Rioja_a6a1e6_evidence_debates_64521f",
+      "title": "How Strong Is The UFO Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Agoncillo Aerodrome Incident Time line",
+        "Evidence Quality in La Rioja UFO Claims",
+        "Conventional Explanations for Aerial Phenomena"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Las_Palmas_c2c576",
+      "title": "Why the Galdar Incident Still Divides Opinion",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Gáldar Incident",
+        "Gáldar Incident Interpretations",
+        "Evidence Layers of the 1976 Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Las_Palmas_c2c576_declassified_ufo_fil_d1b0cf",
+      "title": "What Spain's Declassified UFO File Actually Says",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Spanish Air Force Investigation Workflow",
+        "Interpretations of the 1976 Display",
+        "Evidence Types in File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Las_Palmas_c2c576_galdar_mass_sighting_4ec972",
+      "title": "What Witnesses Saw Across the Canary Islands",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1976 Canary Sighting",
+        "Interpretations of the Gáldar Phenomenon",
+        "Evidence from the Canary Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Las_Palmas_c2c576_poseidon_missile_plu_256003",
+      "title": "Could Missile Exhaust Explain the Galdar Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Poseidon Missile Plume Formation",
+        "Canary Island Sighting Interpretations",
+        "Optical Features of Rocket Plumes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Las_Palmas_c2c576_sphere_humanoid_clai_412ba2",
+      "title": "Did Two Witnesses Really See Humanoid Figures?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Doctor's Gáldar Sighting Key Stages",
+        "Interpretations of the Gáldar Phenomenon",
+        "Evidence Gaps in the 1976 Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Leon_8b001a",
+      "title": "Leon UFO Cases Between Mystery and Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Puente Almuhey Case",
+        "Puente Almuhey Interpretation Analysis",
+        "Factors Shaping León UFO Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Leon_8b001a_aviation_connections_08edac",
+      "title": "How Leon Aviation Shaped UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "La Virgen del Camino Aviation History",
+        "Interpretations of Aerial Sightings",
+        "Aviation Factors at La Virgen del Camino"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.714,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Leon_8b001a_official_archives_03d104",
+      "title": "Inside Leon's Declassified UFO Records",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Puente Almuhey Investigation Time line",
+        "Archive Scope vs. Local Reality",
+        "Spanish Military Investigation Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Leon_8b001a_puente_almuhey_case_27269b",
+      "title": "The Leon UFO Case That Drew Official Attention",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Puente Almuhey Investigation Lifecycle",
+        "Puente Almuhey Explanatory Hypotheses",
+        "Puente Almuhey Case Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Leon_8b001a_sighting_explanation_473668",
+      "title": "Why Leon UFO Reports Stay Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Puente Almuhey Investigation Time line",
+        "Unresolved vs Explained Reports",
+        "Common Causes of Misidentification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lleida_a3bb84",
+      "title": "Why Lleida's Best UFO Cases Look Less Mysterious",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Lleida UFO Historical Time line",
+        "Lleida Case Explanations Comparison",
+        "Lleida Archive Evidence Types"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lleida_a3bb84_1968_military_interc_459eb9",
+      "title": "Did Fighters Chase a Balloon Over Lleida?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Lleida 1968 Military Interception Time line",
+        "Lleida Sighting Interpretations",
+        "Evidence from the Lleida Interception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lleida_a3bb84_1971_luminous_fan_0f96d5",
+      "title": "The Rocket Behind Lleida's Luminous Sky Fan",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Tibère Rocket Re entry Key Stages",
+        "Lleida 1971 Sightings Interpretations",
+        "Witness Observations of the Fan"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lleida_a3bb84_1980_police_pursuit_0b3737",
+      "title": "Were Lleida Police Chasing Venus in 1980?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lleida Police Pursuit Key Stages",
+        "Lleida Sighting Interpretations",
+        "Venus Atmospheric Effects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lleida_a3bb84_credible_witness_mis_3ed44d",
+      "title": "Why Credible Witnesses Still Misread the Sky",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Lleida UFO Case Key Stages",
+        "Witness Credibility vs. Explanation Accuracy",
+        "Factors Influencing UAP Misidentification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lugo_3c0a46",
+      "title": "Lugo's UFO Cases: Reports, Records, and Doubts",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Lugo UFO Records",
+        "Interpretations of the Friol Case",
+        "Lugo UFO Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lugo_3c0a46_becerrea_file_09efdc",
+      "title": "The Becerreá UFO File: What The Records Show",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Becerreá UFO Administrative Lifecycle",
+        "Becerreá Case Interpretation Conflict",
+        "Becerreá File Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lugo_3c0a46_friol_1996_wave_f02712",
+      "title": "Friol's 1996 UFO Wave: Claims and Questions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Friol UFO Case",
+        "Interpretations of the Friol Testimony",
+        "Components of the Friol Mystery"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lugo_3c0a46_lugo_sighting_patter_2ca145",
+      "title": "Why Lugo Keeps Producing UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lugo UFO History Time line",
+        "Lugo Observation Factors Comparison",
+        "Lugo UFO Pattern Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lugo_3c0a46_official_ufo_records_56a07f",
+      "title": "How Spain Investigated Lugo UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Becerreá Case Documentation Path",
+        "Interpretations of Lugo Archives",
+        "Spanish Air Force Archive Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Madrid_7a2191",
+      "title": "Madrid's UFO History Between Hoax and Radar",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Madrid UFO History Key Stages",
+        "Madrid Case Evidence Analysis",
+        "Madrid Aviation Setting Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Madrid_7a2191_madrid_1968_venus_0583d0",
+      "title": "When a Madrid UFO Was Probably Venus",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Madrid 1968 UFO Reporting Time line",
+        "Venus vs. Aircraft Interpretations",
+        "Missing Evidence in Madrid File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Madrid_7a2191_madrid_ufo_evidence_12bb3d",
+      "title": "Which Madrid UFO Cases Deserve Belief?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "quadrant",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Madrid UFO Evidence Classification Scale",
+        "Evidence Types in Madrid Sightings",
+        "Analyzing Official Military Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Madrid_7a2191_torrejon_radar_scram_0d3e50",
+      "title": "The Night Torrejón Scrambled an F 4",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Torrejón Air Base Scramble Time line",
+        "Torrejón Radar Signal Interpretations",
+        "Evidence Gaps in Torrejón Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Madrid_7a2191_ummo_valderas_hoax_fa86d9",
+      "title": "How the Ummo Hoax Convinced Madrid",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "diverging_bars",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Ummo Deception",
+        "Valderas Photographic Interpretations",
+        "Mechanisms of the Ummo Deception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Malaga_7b094a",
+      "title": "Malaga's UFO Stories Between Mystery And Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Málaga UFO Sighting Key Stages",
+        "Málaga Sighting Evidence Analysis",
+        "Factors Influencing Málaga Misidentifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Malaga_7b094a_costa_del_sol_1989_ee56ba",
+      "title": "The Costa del Sol UFO That Was Explained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Costa del Sol Sighting Resolution",
+        "Visual Interpretations of the 1989 Sphere",
+        "Technical Data of the Italian Balloon"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Malaga_7b094a_malaga_1974_photos_601091",
+      "title": "The Malaga UFO Photos That Made Headlines",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1974 Málaga UFO Case",
+        "Interpretations of the Málaga Photographs",
+        "Limitations of the Surviving Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Malaga_7b094a_malaga_sighting_wave_da6b33",
+      "title": "Why Malaga Saw Repeated UFO Waves",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Málaga UFO Sighting Waves Time line",
+        "Factors Driving Málaga Sighting Waves",
+        "Evidence Quality in Málaga Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Malaga_7b094a_san_carlos_photo_e5b69e",
+      "title": "The Malaga UFO Photo Still Under Debate",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the San Carlos Sighting",
+        "Evidence Credibility in San Carlos",
+        "Requirements for Photographic Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Melilla_c01d8f",
+      "title": "How Strong Is Melilla's UFO Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Melilla UFO Reports",
+        "1976 Fireball Interpretation Analysis",
+        "Melilla UFO Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Melilla_c01d8f_cadarso_radar_claim_66602b",
+      "title": "Did a Naval Radar Target Vanish Near Melilla?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cadarso Radar Encounter Narrative",
+        "Radar Anomalies vs. Conventional Explanations",
+        "Required Evidence for Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Melilla_c01d8f_melilla_1976_firebal_5b618b",
+      "title": "Why Melilla's Brightest UFO Was a Fireball",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Melilla Fireball Observation Key Stages",
+        "Melilla Sighting Interpretations",
+        "Fireball Evidence Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Melilla_c01d8f_melilla_1977_disc_e4a723",
+      "title": "What Did Witnesses See Over Melilla in 1977?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Melilla 1977 Copper Gold Disc Details",
+        "Potential Explanations for Melilla Sighting",
+        "Missing Evidence in Melilla Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Melilla_c01d8f_melilla_official_ufo_487956",
+      "title": "Why Melilla Barely Appears in Spain's UFO Files",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Spanish Air Force Archive Lifecycle",
+        "Melilla Accounts vs. Official Files",
+        "Reasons for Archival Absence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Murcia_fed56b",
+      "title": "Why Murcia Opens Spain's Official UFO Archive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Murcia Military Archive Chronology",
+        "Mazarrón Case Interpretations",
+        "Murcia Archive Evidence Quality"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Murcia_fed56b_mazarron_1978_encoun_6b0dda",
+      "title": "Did Lights Follow Soldiers Near Mazarron?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mazarrón Military Exercise Time line",
+        "Mazarrón Interpretations of Movement",
+        "Missing Evidence in Mazarrón Dossier"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Murcia_fed56b_murcia_declassified_4e2211",
+      "title": "How Murcia Entered Spain's Military UFO Record",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Declassification of Spanish UFO Files",
+        "San Javier Observation Analysis",
+        "San Javier Archive Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Murcia_fed56b_murcia_ufo_explanati_38eaf2",
+      "title": "Could Ordinary Lights Explain Murcia's UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "list_vertical",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Murcia UFO Interpretations vs. Ordinary Explanations",
+        "Missing Evidence in Murcia Archives",
+        "Visual Illusion Mechanics in Murcia"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Murcia_fed56b_san_javier_1962_sigh_d49a88",
+      "title": "What Was Seen Above San Javier in 1962?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "August 1962 San Javier Sightings",
+        "San Javier Evidence Limitations",
+        "San Javier Military Record Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Navarre_d04319",
+      "title": "Navarre's UFO Story Beyond the Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1975 Bardenas Reales Case",
+        "Interpretations of the Bardenas Reales Lights",
+        "Evidence Quality in Navarre UFO Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Navarre_d04319_bardenas_1975_sighti_144862",
+      "title": "What Did the Bardenas Guards See in 1975?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Bardenas Reales Military Sighting Time line",
+        "Bardenas Reales Interpretations vs. Evidence",
+        "Bardenas Reales Investigation Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Navarre_d04319_bardenas_later_repor_e3dcc2",
+      "title": "How Did the Bardenas Legend Grow After 1975?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bardenas Reales Military Record Time line",
+        "1980 Sighting Interpretations vs. Folklore",
+        "Evidence Gaps in Bardenas Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Navarre_d04319_bardenas_military_fi_976761",
+      "title": "Why Was the Bardenas Case Closed So Quickly?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bardenas Reales Investigation Time line",
+        "Bardenas Reales Explanatory Hypotheses",
+        "Evidence in File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Navarre_d04319_bardenas_ufo_hotspot_a4c3df",
+      "title": "Why Do So Many Navarre UFO Stories Lead Here?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The 1975 Bardenas Reales Investigation Path",
+        "Interpretations of the 1975 Luminous Phenomena",
+        "Factors Shaping the Bardenas Reales Hotspot"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ourense_35c272",
+      "title": "Ourense UFO History Between Legend and Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of Ourense UFO Sightings",
+        "Evidence Quality of Ourense Cases",
+        "Scientific Explanations for Ourense Lights"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ourense_35c272_alto_rodicio_early_r_136643",
+      "title": "How Ourense Entered the Flying Saucer Era",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ourense Flying Saucer Chronology",
+        "Alto do Rodicio Sighting Interpretations",
+        "Evidence Gaps in Rodicio Report"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ourense_35c272_antela_encounter_cla_42e328",
+      "title": "Did Anything Land Near the Antela Lagoon?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Farmer's 1963 Antela Encounter",
+        "Antela Case Evidential Depth",
+        "Antela Encounter Descriptive Traits"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ourense_35c272_galicia_official_ufo_22aed8",
+      "title": "Do Official Files Strengthen Ourense's UFO Record?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Galician Military UFO File Chronology",
+        "Interpretations of the 1989 Noia Incident",
+        "Ourense Provincial Record Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ourense_35c272_paradaseca_luminous_1093d5",
+      "title": "What Frightened Heliodoro Nunez at Paradaseca?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Paradaseca Sighting",
+        "Interpretations of the Paradaseca Figures",
+        "Evidence Quality in the Paradaseca Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Palencia_b6f02b",
+      "title": "Why Palencia's UFO Record Remains So Elusive",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Requirements for Validating Palencia Reports",
+        "Common Explanations for Palencia Lights",
+        "Palencia UFO Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Palencia_b6f02b_palencia_missing_ufo_0efae2",
+      "title": "Why Are Palencia's UFO Files So Hard to Find?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Palencia 1968 Record Drift Path",
+        "Palencia Archive Gap Interpretations",
+        "Palencia Evidence Search Locations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Palencia_b6f02b_palencia_ufo_evidenc_599ebb",
+      "title": "What Would Make a Palencia Sighting Credible?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The 1968 Palencia Reporting Chain",
+        "Evaluating Palencia Evidence Quality",
+        "Required Data for Sighting Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Palencia_b6f02b_palencia_unusual_lig_51d08f",
+      "title": "Which Night Lights Can Fool Palencia Witnesses?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Palencia UFO Investigation Workflow",
+        "Natural vs. Artificial Light Sources",
+        "Palencia Landscape Optical Effects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Palencia_b6f02b_puente_almuhey_borde_61d827",
+      "title": "Was Puente Almuhey Really a Palencia UFO Case?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Puente Almuhey 1968 Investigation Time line",
+        "Puente Almuhey Interpretations and Evidence",
+        "Geographical Context of Puente Almuhey"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pontevedra_0aef83",
+      "title": "Pontevedra's UFO Cases Between Mystery And Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in Pontevedra UFO Records",
+        "Evidence Analysis of Marcón Case",
+        "Pontevedra UFO Record Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pontevedra_0aef83_galicia_ufo_waves_2b9e81",
+      "title": "Galicia's UFO Waves Beyond Individual Cases",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Galician UFO Waves",
+        "Interpretations of Galician Sightings",
+        "Regional Factors in Pontevedra UFO History"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pontevedra_0aef83_marcon_case_93da98",
+      "title": "The Marcón UFO Story: Witnesses, Claims And Doubts",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Key Stages in the Marcón UFO Sighting",
+        "Evidence Gaps in the Marcón Case",
+        "Key Elements of Marcón Folklore"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pontevedra_0aef83_official_ufo_files_98c8b0",
+      "title": "What Official UFO Files Reveal About Galicia",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Spanish Defence UFO Investigation Workflow",
+        "Official Records vs. Local Legends",
+        "Galician Defence Archive Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pontevedra_0aef83_vigo_pilot_report_feb941",
+      "title": "The Vigo UFO Report And The Pilot Witnesses",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Vigo Offshore Sighting Time line",
+        "Interpretations of the Vigo Sighting",
+        "Vigo Sighting Technical Parameters"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Salamanca_973fa7",
+      "title": "Salamanca's UFO Stories Between Claims and Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Salamanca UFO Reports",
+        "Interpretations of the 1974 Case",
+        "Salamanca Aviation and UFO Context"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Salamanca_973fa7_horcajo_1974_case_ec5970",
+      "title": "Why the 1974 Salamanca UFO Case Endures",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Horcajo de Montemayor Encounter Time line",
+        "Interpretations of the Salamanca Encounter",
+        "Key Elements of the Horcajo Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Salamanca_973fa7_later_sightings_872e46",
+      "title": "The Other UFO Reports Across Salamanca",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Weaknesses of Salamanca UFO Records",
+        "Salamanca Sightings: Interpretation Models",
+        "Patterns in Salamanca's Later Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Salamanca_973fa7_matacan_airfield_d00fb3",
+      "title": "How Matacan Shaped Salamanca UFO Interest",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Matacán Airfield Historical Evolution",
+        "Aviation Context vs UFO Evidence",
+        "Matacán Aviation Infrastructure Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Salamanca_973fa7_official_ufo_files_98c8b0",
+      "title": "What Official UFO Records Reveal About Salamanca",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Spanish Military UFO Archive Workflow",
+        "Salamanca Records vs. Local Narratives",
+        "UFO Evidence Framework in Salamanca"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Santa_Cruz_de_Teneri_4ff430",
+      "title": "Tenerife's UFO Cases Between Mystery and Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Tenerife UFO Records",
+        "1976 Canary Islands Evidence Analysis",
+        "Tenerife UFO Investigation Methodology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Santa_Cruz_de_Teneri_4ff430_1976_canary_case_141564",
+      "title": "The 1976 Tenerife UFO Case Explained",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1976 Canary Islands Sighting",
+        "Competing Interpretations of the Tenerife Case",
+        "Evidence Categories in the 1976 Investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Santa_Cruz_de_Teneri_4ff430_air_force_archives_2a53ab",
+      "title": "Inside Tenerife's Declassified UFO Files",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Spanish Air Force Investigation Workflow",
+        "Interpretation of Tenerife Air Force Files",
+        "Contents of Declassified Tenerife Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Santa_Cruz_de_Teneri_4ff430_radar_military_sight_28931a",
+      "title": "When Tenerife's Radar Watched the Skies",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Canary Islands Military Investigation Time line",
+        "Military Radar vs. Civilian Sightings",
+        "Alternative Explanations for Canary Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Santa_Cruz_de_Teneri_4ff430_sceptical_reviews_31e478",
+      "title": "How Tenerife UFO Stories Were Reconsidered",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sceptical Review of Tenerife UFOs",
+        "1976 Canary Islands Case Interpretations",
+        "Common Tenerife UFO Explanations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Segovia_11f113",
+      "title": "Segovia's UFO Stories Between Claims And Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Spanish Military UFO Investigation Workflow",
+        "Common Explanations for Segovia Sightings",
+        "Levels of Segovia UFO Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Segovia_11f113_explanations_f90d88",
+      "title": "Are Segovia UFO Reports Truly Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Segovia UFO Investigation Workflow",
+        "Segovia Sighting Explanations vs. Evidence",
+        "Evidence Quality for Segovia Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Segovia_11f113_local_sightings_c3594a",
+      "title": "The Segovia Sightings That Sparked Curiosity",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Segovia UFO Report Lifecycle",
+        "Common Aerial Explanations in Segovia",
+        "Factors Shaping Segovia UFO Culture"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Segovia_11f113_military_links_cf66b0",
+      "title": "Why Military Activity Shaped Segovia UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Spanish Air Force Investigation Workflow",
+        "Segovia Aerial Observation Explanations",
+        "Spanish Defense Archive Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Segovia_11f113_official_records_9b05ad",
+      "title": "What The Archives Reveal About Segovia UFO Cases",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Spanish Air Force Archive Workflow",
+        "Evidence Weight in Segovia Records",
+        "Components of a Military File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seville_41f368",
+      "title": "Seville's UFO Stories Between Evidence And Legend",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The 1974 Aznalcóllar Military Investigation",
+        "Categories of Seville UFO Records",
+        "Factors Shaping Seville's UFO Reputation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seville_41f368_aznalcollar_case_1a509c",
+      "title": "The Aznalcóllar Case And Its Unresolved Questions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aznalcóllar 1974 Military Investigation Flow",
+        "Aznalcóllar Case Evidence Limitations",
+        "Key Components of Aznalcóllar Archive"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seville_41f368_civilian_sightings_07a51c",
+      "title": "The Civilian UFO Sightings That Shaped Seville",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Seville UFO Cases",
+        "Civilian vs. Military UFO Records",
+        "Categories of Seville UFO Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seville_41f368_moron_air_base_bc29d9",
+      "title": "Why Morón Air Base Became A UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Morón Air Base Military History",
+        "Morón UFO Evidence vs Folklore",
+        "Factors Shaping Morón UFO Mythology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seville_41f368_pilot_radar_cases_3f97de",
+      "title": "When Pilots And Radar Report Strange Objects",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Radar Data Interpretation Workflow",
+        "Pilot Reports vs Radar Data",
+        "Seville Aviation Environment Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Soria_198769",
+      "title": "Soria's Unresolved Skies and UFO Records",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in Soria Aerial Anomalies",
+        "Interpretations of the Barahona Case",
+        "Soria UFO Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Soria_198769_barahona_incident_709475",
+      "title": "What Happened During Soria's Barahona UFO Case?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Barahona Incident Key Stages 1968",
+        "Barahona Investigation Explanations",
+        "Barahona Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Soria_198769_case_explanations_863f67",
+      "title": "How Soria UFO Reports May Be Explained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "diverging_bars",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "taxonomy"
+      ],
+      "titles": [
+        "Soria UFO Investigation Workflow",
+        "Barahona Incident Interpretations",
+        "Soria UFO Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Soria_198769_local_sightings_c3594a",
+      "title": "The Soria Sightings That Became Local Legends",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Soria UFO Folklore Development",
+        "Soria Sighting Evidence Layers",
+        "Soria UFO Data Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Soria_198769_official_archives_03d104",
+      "title": "Inside Spain's UFO Files on Soria Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Spain's UFO Archive Declassification Process",
+        "Barahona Case Interpretations",
+        "Components of the Spanish UFO Archive"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tarragona_3ac142",
+      "title": "Tarragona's UFO Cases Between Mystery And Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The 1969 Reus Air Base Investigation",
+        "Interpretations of the Reus Sighting",
+        "Aviation Factors in Tarragona Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tarragona_3ac142_aviation_reports_a758e8",
+      "title": "When Pilots And Crews Reported Strange Objects",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Tarragona Aviation Sightings",
+        "Interpretations of Reus Air Base Sightings",
+        "Factors Influencing Aviation UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tarragona_3ac142_official_ufo_files_98c8b0",
+      "title": "Inside The Military UFO Records From Tarragona",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Reus Air Base Investigation Workflow",
+        "Interpreting Spanish Air Force Archives",
+        "Types of Evidence in Reus Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tarragona_3ac142_reus_airbase_sightin_ae1b25",
+      "title": "The Reus UFO Sighting: Mystery Over The Airfield",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1969 Reus Sighting",
+        "Interpretations of the Reus Phenomenon",
+        "Reus Air Base Case Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tarragona_3ac142_ufo_explanations_5e91ba",
+      "title": "How Tarragona UFO Reports Were Explained",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Reus Air Base Investigation Workflow",
+        "Optical Effects in Tarragona Skies",
+        "Tarragona UFO Case Classifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Teruel_fc2989",
+      "title": "Teruel's Unexplained Skies: Reports, Records and Reality",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Teruel UFO Culture",
+        "Teruel Sky Observation Explanations",
+        "Evidence Types in Teruel Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Teruel_fc2989_dark_skies_explanati_f8fbe7",
+      "title": "Why Teruel's Dark Skies Create UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UFO Investigation Workflow in Teruel",
+        "Teruel Sky Phenomena Interpretations",
+        "Factors Influencing Teruel UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Teruel_fc2989_javier_sierra_ufolog_664c66",
+      "title": "How Javier Sierra Shaped Teruel's UFO Culture",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Javier Sierra's Teruel UFO Evolution",
+        "Interpretations of Sierra's UFO Legacy",
+        "Sierra's Contributions to Teruel Ufology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Teruel_fc2989_teruel_official_reco_2307da",
+      "title": "What Official UFO Records Reveal About Teruel",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Spanish Defence Archive Investigation Workflow",
+        "Evidence Quality in Teruel Records",
+        "Factors Influencing Archive Presence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Teruel_fc2989_teruel_sightings_9bb78b",
+      "title": "The UFO Sightings Reported Across Teruel",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Javier Sierra's UFO Research Path",
+        "Teruel Sighting Evidence Limitations",
+        "Teruel UFO Archive Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Toledo_1e860c",
+      "title": "Toledo's UFO Stories Between Records and Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Toledo UFO Records",
+        "Toledo Sighting Interpretations",
+        "Toledo UFO Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Toledo_1e860c_1968_military_files_c0aa52",
+      "title": "The Toledo UFO Reports That Reached Military Files",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Time line of the 1968 Toledo UFO Case",
+        "Interpretations of the Toledo Records",
+        "Spanish Air Force Archive Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Toledo_1e860c_aviation_connections_08edac",
+      "title": "Why Toledo's Skies Drew Official Attention",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Key Stages in the 1968 Toledo Episode",
+        "Aviation vs. Atmospheric Explanations in Toledo",
+        "Toledo Military Aviation Infrastructure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Toledo_1e860c_modern_photo_reports_41f948",
+      "title": "Toledo's Recent UFO Photos and Unanswered Claims",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "2016 Toledo Orange Object Time line",
+        "Toledo Evidence: Human vs. Digital",
+        "Requirements for UFO Photo Validation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Toledo_1e860c_official_archive_tra_578d2a",
+      "title": "Inside Toledo's Official UFO Record Trail",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Spanish Air Force Archive Evolution",
+        "Toledo Archive Evidence Limits",
+        "Toledo 1968 File Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Valencia_6459e8",
+      "title": "Valencia's UFO Cases Between Mystery And Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Manises Incident",
+        "Interpretations of the Turís Case",
+        "Valencia UFO Research Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Valencia_6459e8_manises_incident_228ffb",
+      "title": "Why The Manises Incident Still Divides Researchers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Manises UFO Incident",
+        "Interpretations of the Manises Lights",
+        "Evidence Categories in Manises Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Valencia_6459e8_official_ufo_files_98c8b0",
+      "title": "What Valencia's UFO Archives Actually Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Spanish Air Force Investigation Workflow",
+        "Manises Incident Interpretations",
+        "Valencia Archive Data Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Valencia_6459e8_turis_encounter_4eca85",
+      "title": "The Turís Encounter And Its Unanswered Questions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Turís Encounter",
+        "Interpretations of the Turís Case",
+        "Components of the Turís Report"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Valencia_6459e8_valencia_ufo_pattern_e10380",
+      "title": "Why Valencia Became A UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Valencia UFO Reporting Key Stages",
+        "Manises Incident Interpretations",
+        "Valencia Investigation Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Valladolid_d2ebea",
+      "title": "Valladolid UFO Stories Beyond The Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Valladolid Aerial Anomalies",
+        "Interpretations of the 1965 Valladolid Sighting",
+        "Categories of Valladolid Aerial Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Valladolid_d2ebea_1965_valladolid_sigh_a2b30a",
+      "title": "Why Valladolid's 1965 UFO Sighting Endures",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1965 Valladolid Sighting",
+        "Evidence Analysis of Valladolid Testimony",
+        "Categorization of Valladolid Sighting Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Valladolid_d2ebea_military_ufo_files_0940de",
+      "title": "Inside Valladolid's Military UFO Records",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Spanish Air Force Investigation Workflow",
+        "Interpretations of Unresolved Valladolid Files",
+        "Valladolid Archive Data Composition"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Valladolid_d2ebea_ufo_explanations_val_e38fbb",
+      "title": "How Valladolid UFO Reports Are Explained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Valladolid UFO Investigation Workflow",
+        "Valladolid Sighting Interpretations",
+        "Evidence Limitations in Valladolid"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Valladolid_d2ebea_villalon_light_repor_8fc283",
+      "title": "The Villalón Light Report Still Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Villalón de Campos 1968 Time line",
+        "Potential Explanations for Orange Light",
+        "Missing Evidence in Villalón Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Zamora_6f7871",
+      "title": "Zamora's UFO Stories Beyond the Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Zamora UFO History Time line",
+        "Zamora Evidence Analysis",
+        "Zamora Geographic UFO Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Zamora_6f7871_moreruela_encounter_d840ee",
+      "title": "The Zamora Close Encounter That Still Divides",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Granja de Moreruela Encounter Time line",
+        "Granja de Moreruela Evidence Analysis",
+        "Key Elements of Zamora UFO Folklore"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Zamora_6f7871_official_ufo_records_56a07f",
+      "title": "What Official Files Say About Zamora UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Spanish Ministry of Defence Archive Process",
+        "Zamora Civilian vs. Military Records",
+        "Spanish UFO Archive Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Zamora_6f7871_rural_sighting_clust_68eaf9",
+      "title": "Why Rural Zamora Produced So Many UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "comparison_columns",
+        "diverging_bars"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "Zamora UFO Sighting Clusters",
+        "Conventional Explanations for Zamora Lights",
+        "Patterns in Zamora Aerial Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Zamora_6f7871_zamora_archives_06ca69",
+      "title": "How Zamora's UFO Archive Was Built Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Zamora UFO Archive Development History",
+        "Zamora Archive Data Layers",
+        "Zamora Archive Value Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Zaragoza_2782d8",
+      "title": "Zaragoza's UFO Mysteries Behind The Official Files",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Zaragoza Military UFO Investigation Time line",
+        "Zaragoza 1980 Case Interpretations",
+        "Zaragoza Investigation Analysis Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Zaragoza_2782d8_1979_flight_report_24d101",
+      "title": "The 1979 Flight Mystery Over Zaragoza",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Barcelona–Zaragoza Flight Investigation Time line",
+        "Interpretations of the 1979 Light Sighting",
+        "Aviation Report Data Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Zaragoza_2782d8_march_1980_case_170d92",
+      "title": "The Zaragoza UFO Case That Reached Radar",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "March 1980 Zaragoza Investigation Time line",
+        "Zaragoza Radar and Visual Interpretations",
+        "Key Elements of the Zaragoza Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Zaragoza_2782d8_ufo_archives_a6b7b3",
+      "title": "The Documents Behind Zaragoza's UFO Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Zaragoza UFO Archive Key Stages",
+        "Military vs. Press Records",
+        "Archive Evidence Capabilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Zaragoza_2782d8_zaragoza_air_base_d1abf1",
+      "title": "Why Zaragoza's Air Base Mattered For UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Zaragoza Air Base Military Time line",
+        "Aviation Factors in Zaragoza Reporting",
+        "Zaragoza Investigation Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

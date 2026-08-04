@@ -1,0 +1,2602 @@
+{
+  "generated_at_utc": "2026-08-04T01:51:38.039742Z",
+  "summary": {
+    "total_pages_with_permalink": 312,
+    "visible_pages": 260,
+    "hidden_pages": 52,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 641,
+    "inline_internal_target_page_count": 260,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 238,
+    "visible_pages_without_inline_outbound_links": 22,
+    "average_inline_inbound_links_per_visible_page": 2.47,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 260,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "A_Coruna_c18697_cando_explosion_lege_ff953e",
+        "title": "Cando",
+        "permalink": "/cando/"
+      },
+      {
+        "basename": "A_Coruna_c18697_eva10_radar_mystery_4955d5",
+        "title": "Radar Mystery",
+        "permalink": "/radar-mystery/"
+      },
+      {
+        "basename": "A_Coruna_c18697_green_fireball_1993_6eb75d",
+        "title": "Green Fireball",
+        "permalink": "/green-fireball/"
+      },
+      {
+        "basename": "Avila_9a1863_1976_fireball_deff6a",
+        "title": "1976 Fireball",
+        "permalink": "/1976-fireball/"
+      },
+      {
+        "basename": "Avila_9a1863_official_files_missi_ec03dd",
+        "title": "Official Files",
+        "permalink": "/official-files-4b4311/"
+      },
+      {
+        "basename": "Caceres_23e6f5_caceres_official_ufo_3b4f28",
+        "title": "Official Files",
+        "permalink": "/official-files-cb4c9f/"
+      },
+      {
+        "basename": "Caceres_23e6f5_montanchez_military_81fbd9",
+        "title": "Montanchez",
+        "permalink": "/montanchez/"
+      },
+      {
+        "basename": "Cadiz_bf7148_la_linea_1968_file_905edf",
+        "title": "La Linea 1968",
+        "permalink": "/la-linea-1968/"
+      },
+      {
+        "basename": "Castellon_b6b2a8",
+        "title": "Why Castellon's UFO Mysteries Rarely Stay Mysterious",
+        "permalink": "/why-castellons-ufo-mysteries-rarely-stay/"
+      },
+      {
+        "basename": "Ceuta_6791a7",
+        "title": "Ceuta's UFO Mystery Beyond the Radar Trace",
+        "permalink": "/ceutas-ufo-mystery-beyond-the-radar/"
+      },
+      {
+        "basename": "Cordoba_c65d18",
+        "title": "Why Cordoba's UFO History Resists Easy Answers",
+        "permalink": "/why-cordobas-ufo-history-resists-easy/"
+      },
+      {
+        "basename": "Cuenca_18bceb",
+        "title": "Cuenca's UFO Stories Under the Evidence Test",
+        "permalink": "/cuencas-ufo-stories-under-the-evidence/"
+      },
+      {
+        "basename": "Girona_1912ef",
+        "title": "Girona's UFO Cases: Solved, Weak and Unresolved",
+        "permalink": "/gironas-ufo-cases-solved-weak-and/"
+      },
+      {
+        "basename": "Jaen_6daea8_linares_1952_archive_3e034f",
+        "title": "Linares 1952",
+        "permalink": "/linares-1952/"
+      },
+      {
+        "basename": "Jaen_6daea8_los_villares_encount_b45d5b",
+        "title": "Los Villares",
+        "permalink": "/los-villares/"
+      },
+      {
+        "basename": "Lugo_3c0a46_becerrea_file_09efdc",
+        "title": "Becerreá File",
+        "permalink": "/becerreá-file/"
+      },
+      {
+        "basename": "Lugo_3c0a46_friol_1996_wave_f02712",
+        "title": "Friol 1996",
+        "permalink": "/friol-1996/"
+      },
+      {
+        "basename": "Madrid_7a2191",
+        "title": "Madrid's UFO History Between Hoax and Radar",
+        "permalink": "/madrids-ufo-history-between-hoax-and/"
+      },
+      {
+        "basename": "Malaga_7b094a_san_carlos_photo_e5b69e",
+        "title": "San Carlos Photo",
+        "permalink": "/san-carlos-photo/"
+      },
+      {
+        "basename": "Navarre_d04319",
+        "title": "Navarre's UFO Story Beyond the Mystery",
+        "permalink": "/navarres-ufo-story-beyond-the-mystery/"
+      },
+      {
+        "basename": "Palencia_b6f02b",
+        "title": "Why Palencia's UFO Record Remains So Elusive",
+        "permalink": "/why-palencias-ufo-record-remains-so/"
+      },
+      {
+        "basename": "Toledo_1e860c",
+        "title": "Toledo's UFO Stories Between Records and Mystery",
+        "permalink": "/toledos-ufo-stories-between-records-and/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "A_Coruna_c18697",
+        "title": "The Cases That Shaped A Coruna's UFO History",
+        "permalink": "/the-cases-that-shaped-a-corunas-ufo/"
+      },
+      {
+        "basename": "A_Coruna_c18697_cando_explosion_lege_ff953e",
+        "title": "Cando",
+        "permalink": "/cando/"
+      },
+      {
+        "basename": "A_Coruna_c18697_eva10_radar_mystery_4955d5",
+        "title": "Radar Mystery",
+        "permalink": "/radar-mystery/"
+      },
+      {
+        "basename": "A_Coruna_c18697_ferrol_1966_sighting_35461e",
+        "title": "Ferrol 1966",
+        "permalink": "/ferrol-1966/"
+      },
+      {
+        "basename": "A_Coruna_c18697_green_fireball_1993_6eb75d",
+        "title": "Green Fireball",
+        "permalink": "/green-fireball/"
+      },
+      {
+        "basename": "Alava_ef490e",
+        "title": "Alava's UFO Reports Between Mystery And Evidence",
+        "permalink": "/alavas-ufo-reports-between-mystery-and/"
+      },
+      {
+        "basename": "Alava_ef490e_alava_explanations_ed9bbd",
+        "title": "Explanations",
+        "permalink": "/explanations-0ec8be/"
+      },
+      {
+        "basename": "Alava_ef490e_alava_sightings_a102bb",
+        "title": "Sightings",
+        "permalink": "/sightings-86791c/"
+      },
+      {
+        "basename": "Alava_ef490e_guillerna_archives_628562",
+        "title": "Guillerna Archive",
+        "permalink": "/guillerna-archive/"
+      },
+      {
+        "basename": "Alava_ef490e_military_ufo_files_0940de",
+        "title": "Military Files",
+        "permalink": "/military-files-a82861/"
+      },
+      {
+        "basename": "Albacete_3f7c9a",
+        "title": "Why Albacete Became Central to Spain's Best Known UFO...",
+        "permalink": "/why-albacete-became-central-to-spains/"
+      },
+      {
+        "basename": "Albacete_3f7c9a_conventional_light_e_961670",
+        "title": "Explanations",
+        "permalink": "/explanations/"
+      },
+      {
+        "basename": "Albacete_3f7c9a_los_llanos_airbase_r_a1508a",
+        "title": "Los Llanos",
+        "permalink": "/los-llanos/"
+      },
+      {
+        "basename": "Albacete_3f7c9a_manises_fighter_scra_7594ae",
+        "title": "Manises Case",
+        "permalink": "/manises-case/"
+      },
+      {
+        "basename": "Albacete_3f7c9a_official_files_evide_a255c3",
+        "title": "Official Files",
+        "permalink": "/official-files/"
+      },
+      {
+        "basename": "Alicante_46e2a1",
+        "title": "Why Alicante's UFO Files Still Invite Debate",
+        "permalink": "/why-alicantes-ufo-files-still-invite/"
+      },
+      {
+        "basename": "Alicante_46e2a1_aitana_1975_incident_fece96",
+        "title": "1975 Aitana",
+        "permalink": "/1975-aitana/"
+      },
+      {
+        "basename": "Alicante_46e2a1_aitana_1979_radar_al_82de41",
+        "title": "1979 Alerts",
+        "permalink": "/1979-alerts/"
+      },
+      {
+        "basename": "Alicante_46e2a1_aitana_1986_dossier_0e96c6",
+        "title": "1986 Dossier",
+        "permalink": "/1986-dossier/"
+      },
+      {
+        "basename": "Alicante_46e2a1_costa_blanca_ufo_cul_8512b2",
+        "title": "Costa Blanca",
+        "permalink": "/costa-blanca/"
+      },
+      {
+        "basename": "Almeria_5a5611",
+        "title": "Why Almeria Became a Spanish UFO Hotspot",
+        "permalink": "/why-almeria-became-a-spanish-ufo-hotspot/"
+      },
+      {
+        "basename": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "title": "Coastal Sightings",
+        "permalink": "/coastal-sightings/"
+      },
+      {
+        "basename": "Almeria_5a5611_almeria_1968_militar_1361ed",
+        "title": "1968 File",
+        "permalink": "/1968-file/"
+      },
+      {
+        "basename": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+        "title": "1970 s Wave",
+        "permalink": "/1970-s-wave/"
+      },
+      {
+        "basename": "Almeria_5a5611_tahal_fragmented_ufo_a2ad89",
+        "title": "Lost Archives",
+        "permalink": "/lost-archives/"
+      },
+      {
+        "basename": "Asturias_60aedd",
+        "title": "Asturias UFOs Between Mystery and Explanation",
+        "permalink": "/asturias-ufos-between-mystery-and/"
+      },
+      {
+        "basename": "Asturias_60aedd_cantabrian_aviation_02c6f1",
+        "title": "Cantabrian Cases",
+        "permalink": "/cantabrian-cases/"
+      },
+      {
+        "basename": "Asturias_60aedd_gijon_1969_balloon_c_39d2c7",
+        "title": "Gijon 1969",
+        "permalink": "/gijon-1969/"
+      },
+      {
+        "basename": "Asturias_60aedd_ranadoiro_1989_ufo_f_7e7c01",
+        "title": "Ranadoiro",
+        "permalink": "/ranadoiro/"
+      },
+      {
+        "basename": "Asturias_60aedd_rural_night_light_il_4b476b",
+        "title": "Night Illusions",
+        "permalink": "/night-illusions/"
+      },
+      {
+        "basename": "Avila_9a1863",
+        "title": "Why Avila Has No Landmark UFO Case",
+        "permalink": "/why-avila-has-no-landmark-ufo-case/"
+      },
+      {
+        "basename": "Avila_9a1863_1976_fireball_deff6a",
+        "title": "1976 Fireball",
+        "permalink": "/1976-fireball/"
+      },
+      {
+        "basename": "Avila_9a1863_cebreros_space_myths_6ce3c4",
+        "title": "Cebreros",
+        "permalink": "/cebreros/"
+      },
+      {
+        "basename": "Avila_9a1863_official_files_missi_ec03dd",
+        "title": "Official Files",
+        "permalink": "/official-files-4b4311/"
+      },
+      {
+        "basename": "Avila_9a1863_rural_misidentificat_408e73",
+        "title": "Rural Sightings",
+        "permalink": "/rural-sightings/"
+      },
+      {
+        "basename": "Badajoz_632079",
+        "title": "Badajoz UFO Cases Beyond the Famous Encounter",
+        "permalink": "/badajoz-ufo-cases-beyond-the-famous/"
+      },
+      {
+        "basename": "Badajoz_632079_badajoz_declassified_4759df",
+        "title": "Official Files",
+        "permalink": "/official-files-3f8245/"
+      },
+      {
+        "basename": "Badajoz_632079_talavera_1976_encoun_3025c5",
+        "title": "1976 Encounter",
+        "permalink": "/1976-encounter/"
+      },
+      {
+        "basename": "Badajoz_632079_talavera_radar_conta_87d929",
+        "title": "Radar Case",
+        "permalink": "/radar-case/"
+      },
+      {
+        "basename": "Badajoz_632079_usagre_1993_sighting_cef5c7",
+        "title": "Usagre Sighting",
+        "permalink": "/usagre-sighting/"
+      },
+      {
+        "basename": "Balearic_Islands_d9fdd5",
+        "title": "When Strange Lights Crossed the Balearic Skies",
+        "permalink": "/balearic-islands/"
+      },
+      {
+        "basename": "Balearic_Islands_d9fdd5_balearic_likely_expl_2e19f4",
+        "title": "Likely Explanations",
+        "permalink": "/likely-explanations-086154/"
+      },
+      {
+        "basename": "Balearic_Islands_d9fdd5_es_vedra_manises_leg_759a66",
+        "title": "Es Vedra",
+        "permalink": "/es-vedra/"
+      },
+      {
+        "basename": "Balearic_Islands_d9fdd5_mallorca_ufo_flap_8544be",
+        "title": "Mallorca Flap",
+        "permalink": "/mallorca-flap/"
+      },
+      {
+        "basename": "Balearic_Islands_d9fdd5_menorca_airport_enco_73bf65",
+        "title": "Menorca Case",
+        "permalink": "/menorca-case/"
+      },
+      {
+        "basename": "Barcelona_122a41",
+        "title": "How Strong Is Barcelona's UFO Evidence?",
+        "permalink": "/how-strong-is-barcelonas-ufo-evidence/"
+      },
+      {
+        "basename": "Barcelona_122a41_barcelona_1978_sight_5069e3",
+        "title": "1978 Sighting",
+        "permalink": "/1978-sighting/"
+      },
+      {
+        "basename": "Barcelona_122a41_barcelona_ufo_archiv_10e131",
+        "title": "Researchers",
+        "permalink": "/researchers/"
+      },
+      {
+        "basename": "Barcelona_122a41_declassified_barcelo_8939d9",
+        "title": "Official Files",
+        "permalink": "/official-files-24f12d/"
+      },
+      {
+        "basename": "Barcelona_122a41_montserrat_skywatch_b4c98d",
+        "title": "Montserrat",
+        "permalink": "/montserrat/"
+      },
+      {
+        "basename": "Biscay_fc6f6b",
+        "title": "How Strong Is Biscay's UFO Evidence?",
+        "permalink": "/how-strong-is-biscays-ufo-evidence/"
+      },
+      {
+        "basename": "Biscay_fc6f6b_bilbao_airport_ufo_e_6c2f6f",
+        "title": "Airport Sightings",
+        "permalink": "/airport-sightings/"
+      },
+      {
+        "basename": "Biscay_fc6f6b_biscay_official_ufo_0a7dd6",
+        "title": "Official Files",
+        "permalink": "/official-files-309472/"
+      },
+      {
+        "basename": "Biscay_fc6f6b_biscay_sightings_med_b37241",
+        "title": "Sightings Record",
+        "permalink": "/sightings-record/"
+      },
+      {
+        "basename": "Biscay_fc6f6b_flight_502_missing_t_53d46a",
+        "title": "Flight 502",
+        "permalink": "/flight-502/"
+      },
+      {
+        "basename": "Burgos_199e01",
+        "title": "How Burgos Turned Strange Lights Into Legends",
+        "permalink": "/how-burgos-turned-strange-lights-into/"
+      },
+      {
+        "basename": "Burgos_199e01_burgos_1970_pilot_si_7c1b84",
+        "title": "1970 Pilot Case",
+        "permalink": "/1970-pilot-case/"
+      },
+      {
+        "basename": "Burgos_199e01_fuentecen_close_enco_9e8b73",
+        "title": "Fuentecen",
+        "permalink": "/fuentecen/"
+      },
+      {
+        "basename": "Burgos_199e01_ochate_ufo_photograp_659ab6",
+        "title": "Ochate",
+        "permalink": "/ochate/"
+      },
+      {
+        "basename": "Burgos_199e01_quintanaortuno_1975_5a8ab4",
+        "title": "Soldiers Lights",
+        "permalink": "/soldiers-lights/"
+      },
+      {
+        "basename": "Caceres_23e6f5",
+        "title": "How Strong Is Caceres' UFO Evidence?",
+        "permalink": "/how-strong-is-caceres-ufo-evidence/"
+      },
+      {
+        "basename": "Caceres_23e6f5_caceres_official_ufo_3b4f28",
+        "title": "Official Files",
+        "permalink": "/official-files-cb4c9f/"
+      },
+      {
+        "basename": "Caceres_23e6f5_ceclavin_lights_folk_d7b688",
+        "title": "Ceclavin",
+        "permalink": "/ceclavin/"
+      },
+      {
+        "basename": "Caceres_23e6f5_montanchez_military_81fbd9",
+        "title": "Montanchez",
+        "permalink": "/montanchez/"
+      },
+      {
+        "basename": "Caceres_23e6f5_valencia_alcantara_l_2f3315",
+        "title": "Border Lights",
+        "permalink": "/border-lights/"
+      },
+      {
+        "basename": "Cadiz_bf7148",
+        "title": "Why Cadiz Became a Spanish UFO Hotspot",
+        "permalink": "/why-cadiz-became-a-spanish-ufo-hotspot/"
+      },
+      {
+        "basename": "Cadiz_bf7148_jerez_sanlucar_wave_2c94ea",
+        "title": "Roadside Wave",
+        "permalink": "/roadside-wave/"
+      },
+      {
+        "basename": "Cadiz_bf7148_la_linea_1968_file_905edf",
+        "title": "La Linea 1968",
+        "permalink": "/la-linea-1968/"
+      },
+      {
+        "basename": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+        "title": "Later Stories",
+        "permalink": "/later-stories/"
+      },
+      {
+        "basename": "Cadiz_bf7148_rota_airbase_sightin_fc1b1a",
+        "title": "Rota Airbase",
+        "permalink": "/rota-airbase/"
+      },
+      {
+        "basename": "Cantabria_c90a8d",
+        "title": "Cantabria's UFO Stories Between Mystery and Evidence",
+        "permalink": "/cantabrias-ufo-stories-between-mystery/"
+      },
+      {
+        "basename": "Cantabria_c90a8d_garabandal_claims_c59dd3",
+        "title": "Garabandal",
+        "permalink": "/garabandal/"
+      },
+      {
+        "basename": "Cantabria_c90a8d_sighting_explanation_473668",
+        "title": "Explanations",
+        "permalink": "/explanations-5b3538/"
+      },
+      {
+        "basename": "Cantabria_c90a8d_sighting_patterns_2fef5d",
+        "title": "Sightings",
+        "permalink": "/sightings/"
+      },
+      {
+        "basename": "Cantabria_c90a8d_ufo_archives_records_ca6c00",
+        "title": "Archives",
+        "permalink": "/archives/"
+      },
+      {
+        "basename": "Castellon_b6b2a8",
+        "title": "Why Castellon's UFO Mysteries Rarely Stay Mysterious",
+        "permalink": "/why-castellons-ufo-mysteries-rarely-stay/"
+      },
+      {
+        "basename": "Castellon_b6b2a8_false_alarms_reentri_5a2cd8",
+        "title": "False Alarms",
+        "permalink": "/false-alarms/"
+      },
+      {
+        "basename": "Castellon_b6b2a8_historic_strange_lig_6b631b",
+        "title": "Strange Skies",
+        "permalink": "/strange-skies/"
+      },
+      {
+        "basename": "Castellon_b6b2a8_military_witnesses_r_7c6560",
+        "title": "Military Record",
+        "permalink": "/military-record/"
+      },
+      {
+        "basename": "Castellon_b6b2a8_vinaros_1983_sightin_108270",
+        "title": "Vinaros 1983",
+        "permalink": "/vinaros-1983/"
+      },
+      {
+        "basename": "Ceuta_6791a7",
+        "title": "Ceuta's UFO Mystery Beyond the Radar Trace",
+        "permalink": "/ceutas-ufo-mystery-beyond-the-radar/"
+      },
+      {
+        "basename": "Ceuta_6791a7_ceuta_1954_radar_cas_54e796",
+        "title": "1954 Radar Case",
+        "permalink": "/1954-radar-case/"
+      },
+      {
+        "basename": "Ceuta_6791a7_ceuta_evidence_gaps_44eac3",
+        "title": "Evidence Gaps",
+        "permalink": "/evidence-gaps/"
+      },
+      {
+        "basename": "Ceuta_6791a7_ceuta_later_sighting_91536c",
+        "title": "Later Sightings",
+        "permalink": "/later-sightings/"
+      },
+      {
+        "basename": "Ceuta_6791a7_ceuta_radar_explanat_07f8f6",
+        "title": "Radar Explanations",
+        "permalink": "/radar-explanations/"
+      },
+      {
+        "basename": "Ciudad_Real_1bcbd0",
+        "title": "How Ciudad Real's UFO Stories Took Shape",
+        "permalink": "/how-ciudad-reals-ufo-stories-took-shape/"
+      },
+      {
+        "basename": "Ciudad_Real_1bcbd0_air_force_file_ebcc38",
+        "title": "Official File",
+        "permalink": "/official-file/"
+      },
+      {
+        "basename": "Ciudad_Real_1bcbd0_february_1969_cluste_e40e0d",
+        "title": "1969 Cluster",
+        "permalink": "/1969-cluster/"
+      },
+      {
+        "basename": "Ciudad_Real_1bcbd0_la_atalaya_lights_a3f322",
+        "title": "La Atalaya",
+        "permalink": "/la-atalaya/"
+      },
+      {
+        "basename": "Ciudad_Real_1bcbd0_meteor_explanation_4588d9",
+        "title": "Meteor Theory",
+        "permalink": "/meteor-theory/"
+      },
+      {
+        "basename": "Cordoba_c65d18",
+        "title": "Why Cordoba's UFO History Resists Easy Answers",
+        "permalink": "/why-cordobas-ufo-history-resists-easy/"
+      },
+      {
+        "basename": "Cordoba_c65d18_1966_roadside_encoun_7561de",
+        "title": "1966 Encounter",
+        "permalink": "/1966-encounter/"
+      },
+      {
+        "basename": "Cordoba_c65d18_identified_aerial_li_cd6976",
+        "title": "Identified Lights",
+        "permalink": "/identified-lights/"
+      },
+      {
+        "basename": "Cordoba_c65d18_missing_landmark_cas_c00ed1",
+        "title": "Missing Case",
+        "permalink": "/missing-case/"
+      },
+      {
+        "basename": "Cordoba_c65d18_penarroya_rock_art_c_a0a292",
+        "title": "Rock Art Claim",
+        "permalink": "/rock-art-claim/"
+      },
+      {
+        "basename": "Cuenca_18bceb",
+        "title": "Cuenca's UFO Stories Under the Evidence Test",
+        "permalink": "/cuencas-ufo-stories-under-the-evidence/"
+      },
+      {
+        "basename": "Cuenca_18bceb_cuenca_1968_balloon_3d18f3",
+        "title": "1968 Sighting",
+        "permalink": "/1968-sighting/"
+      },
+      {
+        "basename": "Cuenca_18bceb_cuenca_village_sight_ceac99",
+        "title": "Village Reports",
+        "permalink": "/village-reports/"
+      },
+      {
+        "basename": "Cuenca_18bceb_september_1968_ufo_w_d38162",
+        "title": "1968 Wave",
+        "permalink": "/1968-wave/"
+      },
+      {
+        "basename": "Cuenca_18bceb_villares_1953_landin_bb73b0",
+        "title": "Villares Claim",
+        "permalink": "/villares-claim/"
+      },
+      {
+        "basename": "Gipuzkoa_c8b477",
+        "title": "Gipuzkoa's UFO Stories Between Mystery And Evidence",
+        "permalink": "/gipuzkoas-ufo-stories-between-mystery/"
+      },
+      {
+        "basename": "Gipuzkoa_c8b477_1985_ufo_chase_21c4d3",
+        "title": "1985 Chase",
+        "permalink": "/1985-chase/"
+      },
+      {
+        "basename": "Gipuzkoa_c8b477_local_press_reports_b7d3e9",
+        "title": "Local Reports",
+        "permalink": "/local-reports/"
+      },
+      {
+        "basename": "Gipuzkoa_c8b477_sighting_explanation_473668",
+        "title": "Sight Explanations",
+        "permalink": "/sight-explanations/"
+      },
+      {
+        "basename": "Gipuzkoa_c8b477_spanish_ufo_files_3767cd",
+        "title": "Official Files",
+        "permalink": "/official-files-c8a5e4/"
+      },
+      {
+        "basename": "Girona_1912ef",
+        "title": "Girona's UFO Cases: Solved, Weak and Unresolved",
+        "permalink": "/gironas-ufo-cases-solved-weak-and/"
+      },
+      {
+        "basename": "Girona_1912ef_blanes_disc_missing_6de66f",
+        "title": "Blanes 1982",
+        "permalink": "/blanes-1982/"
+      },
+      {
+        "basename": "Girona_1912ef_girona_airport_ballo_1377c5",
+        "title": "Airport Case",
+        "permalink": "/airport-case/"
+      },
+      {
+        "basename": "Girona_1912ef_girona_declassified_1bb91c",
+        "title": "Official Files",
+        "permalink": "/official-files-c1b913/"
+      },
+      {
+        "basename": "Girona_1912ef_roses_radar_sighting_2cc39e",
+        "title": "Roses Radar",
+        "permalink": "/roses-radar/"
+      },
+      {
+        "basename": "Granada_3f7db9",
+        "title": "Granada's UFO History Beyond the Motril Mystery",
+        "permalink": "/granadas-ufo-history-beyond-the-motril/"
+      },
+      {
+        "basename": "Granada_3f7db9_motril_electronic_wa_748ff9",
+        "title": "Jamming Theory",
+        "permalink": "/jamming-theory/"
+      },
+      {
+        "basename": "Granada_3f7db9_motril_interception_bc6def",
+        "title": "Motril Case",
+        "permalink": "/motril-case/"
+      },
+      {
+        "basename": "Granada_3f7db9_motril_refraction_th_70f831",
+        "title": "Refraction",
+        "permalink": "/refraction/"
+      },
+      {
+        "basename": "Granada_3f7db9_november_1979_cluste_ccecb1",
+        "title": "1979 Cluster",
+        "permalink": "/1979-cluster/"
+      },
+      {
+        "basename": "Guadalajara_2d19b1",
+        "title": "One Sighting, Two Verdicts, A Lasting Mystery",
+        "permalink": "/guadalajara/"
+      },
+      {
+        "basename": "Guadalajara_2d19b1_air_force_file_ebcc38",
+        "title": "Military File",
+        "permalink": "/military-file/"
+      },
+      {
+        "basename": "Guadalajara_2d19b1_meteor_explanation_4588d9",
+        "title": "Meteor Theory",
+        "permalink": "/meteor-theory-0e3e14/"
+      },
+      {
+        "basename": "Guadalajara_2d19b1_reservoir_legend_b5c16e",
+        "title": "Reservoir Legend",
+        "permalink": "/reservoir-legend/"
+      },
+      {
+        "basename": "Guadalajara_2d19b1_sacedon_sighting_340869",
+        "title": "Sacedon Case",
+        "permalink": "/sacedon-case/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Alava_ef490e_alava_explanations_ed9bbd",
+        "title": "Explanations",
+        "permalink": "/explanations-0ec8be/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Alava_ef490e_alava_sightings_a102bb",
+        "title": "Sightings",
+        "permalink": "/sightings-86791c/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Albacete_3f7c9a",
+        "title": "Why Albacete Became Central to Spain's Best Known UFO...",
+        "permalink": "/why-albacete-became-central-to-spains/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Albacete_3f7c9a_los_llanos_airbase_r_a1508a",
+        "title": "Los Llanos",
+        "permalink": "/los-llanos/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Alicante_46e2a1",
+        "title": "Why Alicante's UFO Files Still Invite Debate",
+        "permalink": "/why-alicantes-ufo-files-still-invite/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Almeria_5a5611",
+        "title": "Why Almeria Became a Spanish UFO Hotspot",
+        "permalink": "/why-almeria-became-a-spanish-ufo-hotspot/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Asturias_60aedd",
+        "title": "Asturias UFOs Between Mystery and Explanation",
+        "permalink": "/asturias-ufos-between-mystery-and/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Badajoz_632079",
+        "title": "Badajoz UFO Cases Beyond the Famous Encounter",
+        "permalink": "/badajoz-ufo-cases-beyond-the-famous/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Balearic_Islands_d9fdd5",
+        "title": "When Strange Lights Crossed the Balearic Skies",
+        "permalink": "/balearic-islands/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Barcelona_122a41",
+        "title": "How Strong Is Barcelona's UFO Evidence?",
+        "permalink": "/how-strong-is-barcelonas-ufo-evidence/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Biscay_fc6f6b",
+        "title": "How Strong Is Biscay's UFO Evidence?",
+        "permalink": "/how-strong-is-biscays-ufo-evidence/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Burgos_199e01",
+        "title": "How Burgos Turned Strange Lights Into Legends",
+        "permalink": "/how-burgos-turned-strange-lights-into/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cantabria_c90a8d",
+        "title": "Cantabria's UFO Stories Between Mystery and Evidence",
+        "permalink": "/cantabrias-ufo-stories-between-mystery/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cantabria_c90a8d_sighting_explanation_473668",
+        "title": "Explanations",
+        "permalink": "/explanations-5b3538/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Castellon_b6b2a8",
+        "title": "Why Castellon's UFO Mysteries Rarely Stay Mysterious",
+        "permalink": "/why-castellons-ufo-mysteries-rarely-stay/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Ceuta_6791a7",
+        "title": "Ceuta's UFO Mystery Beyond the Radar Trace",
+        "permalink": "/ceutas-ufo-mystery-beyond-the-radar/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Ciudad_Real_1bcbd0",
+        "title": "How Ciudad Real's UFO Stories Took Shape",
+        "permalink": "/how-ciudad-reals-ufo-stories-took-shape/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Ciudad_Real_1bcbd0_air_force_file_ebcc38",
+        "title": "Official File",
+        "permalink": "/official-file/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cordoba_c65d18",
+        "title": "Why Cordoba's UFO History Resists Easy Answers",
+        "permalink": "/why-cordobas-ufo-history-resists-easy/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cuenca_18bceb",
+        "title": "Cuenca's UFO Stories Under the Evidence Test",
+        "permalink": "/cuencas-ufo-stories-under-the-evidence/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Gipuzkoa_c8b477",
+        "title": "Gipuzkoa's UFO Stories Between Mystery And Evidence",
+        "permalink": "/gipuzkoas-ufo-stories-between-mystery/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Gipuzkoa_c8b477_1985_ufo_chase_21c4d3",
+        "title": "1985 Chase",
+        "permalink": "/1985-chase/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Girona_1912ef",
+        "title": "Girona's UFO Cases: Solved, Weak and Unresolved",
+        "permalink": "/gironas-ufo-cases-solved-weak-and/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Granada_3f7db9",
+        "title": "Granada's UFO History Beyond the Motril Mystery",
+        "permalink": "/granadas-ufo-history-beyond-the-motril/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Granada_3f7db9_motril_refraction_th_70f831",
+        "title": "Refraction",
+        "permalink": "/refraction/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Guadalajara_2d19b1",
+        "title": "One Sighting, Two Verdicts, A Lasting Mystery",
+        "permalink": "/guadalajara/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Huelva_bc0cde",
+        "title": "Huelva's UFO Stories and the Evidence Behind Them",
+        "permalink": "/huelvas-ufo-stories-and-the-evidence/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Huesca_59c1aa",
+        "title": "Huesca's UFO Stories Under the Evidence Test",
+        "permalink": "/huescas-ufo-stories-under-the-evidence/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "La_Rioja_a6a1e6",
+        "title": "La Rioja's UFO Cases Beyond The Mystery",
+        "permalink": "/la-riojas-ufo-cases-beyond-the-mystery/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "La_Rioja_a6a1e6_agoncillo_case_90e8f6",
+        "title": "Agoncillo Case",
+        "permalink": "/agoncillo-case/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Las_Palmas_c2c576",
+        "title": "Why the Galdar Incident Still Divides Opinion",
+        "permalink": "/las-palmas/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Las_Palmas_c2c576_galdar_mass_sighting_4ec972",
+        "title": "Mass Sighting",
+        "permalink": "/mass-sighting/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Leon_8b001a_puente_almuhey_case_27269b",
+        "title": "Puente Almuhey",
+        "permalink": "/puente-almuhey/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Leon_8b001a_sighting_explanation_473668",
+        "title": "Possible Explanations",
+        "permalink": "/possible-explanations/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Lleida_a3bb84",
+        "title": "Why Lleida's Best UFO Cases Look Less Mysterious",
+        "permalink": "/why-lleidas-best-ufo-cases-look-less/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Madrid_7a2191",
+        "title": "Madrid's UFO History Between Hoax and Radar",
+        "permalink": "/madrids-ufo-history-between-hoax-and/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Melilla_c01d8f",
+        "title": "How Strong Is Melilla's UFO Evidence?",
+        "permalink": "/how-strong-is-melillas-ufo-evidence/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Murcia_fed56b",
+        "title": "Why Murcia Opens Spain's Official UFO Archive",
+        "permalink": "/why-murcia-opens-spains-official-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Navarre_d04319",
+        "title": "Navarre's UFO Story Beyond the Mystery",
+        "permalink": "/navarres-ufo-story-beyond-the-mystery/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Ourense_35c272",
+        "title": "Ourense UFO History Between Legend and Evidence",
+        "permalink": "/ourense-ufo-history-between-legend-and/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Almeria_5a5611",
+        "to": "A_Coruna_c18697",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Alava_ef490e",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Albacete_3f7c9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Alicante_46e2a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Asturias_60aedd",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Avila_9a1863",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Badajoz_632079",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Balearic_Islands_d9fdd5",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Barcelona_122a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Biscay_fc6f6b",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Burgos_199e01",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Caceres_23e6f5",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Cadiz_bf7148",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Cantabria_c90a8d",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Castellon_b6b2a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Ceuta_6791a7",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Ciudad_Real_1bcbd0",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Cordoba_c65d18",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Cuenca_18bceb",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Gipuzkoa_c8b477",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Girona_1912ef",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Granada_3f7db9",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Guadalajara_2d19b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Huelva_bc0cde",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Huesca_59c1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Jaen_6daea8",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "La_Rioja_a6a1e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Las_Palmas_c2c576",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Leon_8b001a",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Lleida_a3bb84",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Lugo_3c0a46",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Madrid_7a2191",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Malaga_7b094a",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Melilla_c01d8f",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Murcia_fed56b",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Navarre_d04319",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Ourense_35c272",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Palencia_b6f02b",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Pontevedra_0aef83",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Salamanca_973fa7",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Santa_Cruz_de_Teneri_4ff430",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Segovia_11f113",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Seville_41f368",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Soria_198769",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Tarragona_3ac142",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Teruel_fc2989",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Toledo_1e860c",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Valencia_6459e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Valladolid_d2ebea",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Zamora_6f7871",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Zaragoza_2782d8",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "type": "child"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Almeria_5a5611_almeria_1968_militar_1361ed",
+        "type": "child"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+        "type": "child"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Almeria_5a5611_index",
+        "type": "child"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Almeria_5a5611_tahal_fragmented_ufo_a2ad89",
+        "type": "child"
+      },
+      {
+        "from": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "to": "Almeria_5a5611",
+        "type": "parent"
+      },
+      {
+        "from": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "to": "Almeria_5a5611_almeria_1968_militar_1361ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "to": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "to": "Almeria_5a5611_tahal_fragmented_ufo_a2ad89",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "to": "Almeria_5a5611",
+        "type": "ancestor"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1968_militar_1361ed",
+        "to": "Almeria_5a5611",
+        "type": "parent"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1968_militar_1361ed",
+        "to": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1968_militar_1361ed",
+        "to": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1968_militar_1361ed",
+        "to": "Almeria_5a5611_tahal_fragmented_ufo_a2ad89",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1968_militar_1361ed",
+        "to": "Almeria_5a5611",
+        "type": "ancestor"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+        "to": "Almeria_5a5611",
+        "type": "parent"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+        "to": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+        "to": "Almeria_5a5611_almeria_1968_militar_1361ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+        "to": "Almeria_5a5611_tahal_fragmented_ufo_a2ad89",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+        "to": "Almeria_5a5611",
+        "type": "ancestor"
+      },
+      {
+        "from": "Almeria_5a5611_tahal_fragmented_ufo_a2ad89",
+        "to": "Almeria_5a5611",
+        "type": "parent"
+      },
+      {
+        "from": "Almeria_5a5611_tahal_fragmented_ufo_a2ad89",
+        "to": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611_tahal_fragmented_ufo_a2ad89",
+        "to": "Almeria_5a5611_almeria_1968_militar_1361ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611_tahal_fragmented_ufo_a2ad89",
+        "to": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+        "type": "sibling"
+      },
+      {
+        "from": "Almeria_5a5611_tahal_fragmented_ufo_a2ad89",
+        "to": "Almeria_5a5611",
+        "type": "ancestor"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "A_Coruna_c18697",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Alava_ef490e",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Albacete_3f7c9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Alicante_46e2a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Almeria_5a5611",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Asturias_60aedd",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Avila_9a1863",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Badajoz_632079",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Balearic_Islands_d9fdd5",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Barcelona_122a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Biscay_fc6f6b",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Burgos_199e01",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Caceres_23e6f5",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Cantabria_c90a8d",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Castellon_b6b2a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Ceuta_6791a7",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Ciudad_Real_1bcbd0",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Cordoba_c65d18",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Cuenca_18bceb",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Gipuzkoa_c8b477",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Girona_1912ef",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Granada_3f7db9",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Guadalajara_2d19b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Huelva_bc0cde",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Huesca_59c1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Jaen_6daea8",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "La_Rioja_a6a1e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Las_Palmas_c2c576",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Leon_8b001a",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Lleida_a3bb84",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Lugo_3c0a46",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Madrid_7a2191",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Malaga_7b094a",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Melilla_c01d8f",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Murcia_fed56b",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Navarre_d04319",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Ourense_35c272",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Palencia_b6f02b",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Pontevedra_0aef83",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Salamanca_973fa7",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Santa_Cruz_de_Teneri_4ff430",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Segovia_11f113",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Seville_41f368",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Soria_198769",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Tarragona_3ac142",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Teruel_fc2989",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Toledo_1e860c",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Valencia_6459e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Valladolid_d2ebea",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Zamora_6f7871",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Zaragoza_2782d8",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Cadiz_bf7148_index",
+        "type": "child"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Cadiz_bf7148_jerez_sanlucar_wave_2c94ea",
+        "type": "child"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Cadiz_bf7148_la_linea_1968_file_905edf",
+        "type": "child"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+        "type": "child"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Cadiz_bf7148_rota_airbase_sightin_fc1b1a",
+        "type": "child"
+      },
+      {
+        "from": "Cadiz_bf7148_la_linea_1968_file_905edf",
+        "to": "Cadiz_bf7148",
+        "type": "parent"
+      },
+      {
+        "from": "Cadiz_bf7148_la_linea_1968_file_905edf",
+        "to": "Cadiz_bf7148_jerez_sanlucar_wave_2c94ea",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148_la_linea_1968_file_905edf",
+        "to": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148_la_linea_1968_file_905edf",
+        "to": "Cadiz_bf7148_rota_airbase_sightin_fc1b1a",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148_la_linea_1968_file_905edf",
+        "to": "Cadiz_bf7148",
+        "type": "ancestor"
+      },
+      {
+        "from": "Cadiz_bf7148_jerez_sanlucar_wave_2c94ea",
+        "to": "Cadiz_bf7148",
+        "type": "parent"
+      },
+      {
+        "from": "Cadiz_bf7148_jerez_sanlucar_wave_2c94ea",
+        "to": "Cadiz_bf7148_la_linea_1968_file_905edf",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148_jerez_sanlucar_wave_2c94ea",
+        "to": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148_jerez_sanlucar_wave_2c94ea",
+        "to": "Cadiz_bf7148_rota_airbase_sightin_fc1b1a",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148_jerez_sanlucar_wave_2c94ea",
+        "to": "Cadiz_bf7148",
+        "type": "ancestor"
+      },
+      {
+        "from": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+        "to": "Cadiz_bf7148",
+        "type": "parent"
+      },
+      {
+        "from": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+        "to": "Cadiz_bf7148_jerez_sanlucar_wave_2c94ea",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+        "to": "Cadiz_bf7148_la_linea_1968_file_905edf",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+        "to": "Cadiz_bf7148_rota_airbase_sightin_fc1b1a",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+        "to": "Cadiz_bf7148",
+        "type": "ancestor"
+      },
+      {
+        "from": "Cadiz_bf7148_rota_airbase_sightin_fc1b1a",
+        "to": "Cadiz_bf7148",
+        "type": "parent"
+      },
+      {
+        "from": "Cadiz_bf7148_rota_airbase_sightin_fc1b1a",
+        "to": "Cadiz_bf7148_jerez_sanlucar_wave_2c94ea",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148_rota_airbase_sightin_fc1b1a",
+        "to": "Cadiz_bf7148_la_linea_1968_file_905edf",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148_rota_airbase_sightin_fc1b1a",
+        "to": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+        "type": "sibling"
+      },
+      {
+        "from": "Cadiz_bf7148_rota_airbase_sightin_fc1b1a",
+        "to": "Cadiz_bf7148",
+        "type": "ancestor"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "A_Coruna_c18697",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Alava_ef490e",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Albacete_3f7c9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Alicante_46e2a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Almeria_5a5611",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Asturias_60aedd",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Avila_9a1863",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Badajoz_632079",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Balearic_Islands_d9fdd5",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Barcelona_122a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Biscay_fc6f6b",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Burgos_199e01",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Caceres_23e6f5",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Cadiz_bf7148",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Cantabria_c90a8d",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Castellon_b6b2a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Ceuta_6791a7",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Cordoba_c65d18",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Cuenca_18bceb",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Gipuzkoa_c8b477",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Girona_1912ef",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Granada_3f7db9",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Guadalajara_2d19b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Huelva_bc0cde",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Huesca_59c1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Jaen_6daea8",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "La_Rioja_a6a1e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Las_Palmas_c2c576",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Leon_8b001a",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Lleida_a3bb84",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Lugo_3c0a46",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Madrid_7a2191",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Malaga_7b094a",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Melilla_c01d8f",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Murcia_fed56b",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Navarre_d04319",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Ourense_35c272",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Palencia_b6f02b",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Pontevedra_0aef83",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Salamanca_973fa7",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Santa_Cruz_de_Teneri_4ff430",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Segovia_11f113",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Seville_41f368",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Soria_198769",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Tarragona_3ac142",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Teruel_fc2989",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Toledo_1e860c",
+        "type": "sibling"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Valencia_6459e8",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Almeria_5a5611",
+        "to": "Almeria_5a5611_almeria_1968_militar_1361ed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Almeria_5a5611",
+        "to": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "to": "Almeria_5a5611",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1968_militar_1361ed",
+        "to": "Almeria_5a5611",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+        "to": "Almeria_5a5611_aguadulce_roquetas_s_64c081",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Almeria_5a5611_almeria_1970s_ufo_wa_04f783",
+        "to": "Almeria_5a5611",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Almeria_5a5611_tahal_fragmented_ufo_a2ad89",
+        "to": "Almeria_5a5611",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cadiz_bf7148",
+        "to": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cadiz_bf7148_jerez_sanlucar_wave_2c94ea",
+        "to": "Cadiz_bf7148",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cadiz_bf7148_later_cadiz_testimon_7b9d63",
+        "to": "Cadiz_bf7148",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cadiz_bf7148_rota_airbase_sightin_fc1b1a",
+        "to": "Cadiz_bf7148",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Ciudad_Real_1bcbd0_february_1969_cluste_e40e0d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Ciudad_Real_1bcbd0_la_atalaya_lights_a3f322",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0",
+        "to": "Ciudad_Real_1bcbd0_air_force_file_ebcc38",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0_air_force_file_ebcc38",
+        "to": "Ciudad_Real_1bcbd0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0_la_atalaya_lights_a3f322",
+        "to": "Ciudad_Real_1bcbd0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0_la_atalaya_lights_a3f322",
+        "to": "Ciudad_Real_1bcbd0_meteor_explanation_4588d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0_la_atalaya_lights_a3f322",
+        "to": "Ciudad_Real_1bcbd0_air_force_file_ebcc38",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0_meteor_explanation_4588d9",
+        "to": "Ciudad_Real_1bcbd0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0_meteor_explanation_4588d9",
+        "to": "Ciudad_Real_1bcbd0_air_force_file_ebcc38",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0_february_1969_cluste_e40e0d",
+        "to": "Ciudad_Real_1bcbd0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0_february_1969_cluste_e40e0d",
+        "to": "Ciudad_Real_1bcbd0_meteor_explanation_4588d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ciudad_Real_1bcbd0_february_1969_cluste_e40e0d",
+        "to": "Ciudad_Real_1bcbd0_air_force_file_ebcc38",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Granada_3f7db9",
+        "to": "Granada_3f7db9_motril_interception_bc6def",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Granada_3f7db9",
+        "to": "Granada_3f7db9_motril_refraction_th_70f831",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Granada_3f7db9_motril_interception_bc6def",
+        "to": "Granada_3f7db9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Granada_3f7db9_motril_interception_bc6def",
+        "to": "Granada_3f7db9_motril_refraction_th_70f831",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Granada_3f7db9_motril_electronic_wa_748ff9",
+        "to": "Granada_3f7db9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Granada_3f7db9_motril_electronic_wa_748ff9",
+        "to": "Granada_3f7db9_motril_interception_bc6def",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Granada_3f7db9_motril_electronic_wa_748ff9",
+        "to": "Granada_3f7db9_motril_refraction_th_70f831",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Granada_3f7db9_motril_refraction_th_70f831",
+        "to": "Granada_3f7db9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Granada_3f7db9_motril_refraction_th_70f831",
+        "to": "Granada_3f7db9_motril_interception_bc6def",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Granada_3f7db9_november_1979_cluste_ccecb1",
+        "to": "Granada_3f7db9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Granada_3f7db9_november_1979_cluste_ccecb1",
+        "to": "Granada_3f7db9_motril_refraction_th_70f831",
+        "type": "inline_internal"
+      },
+      {
+        "from": "La_Rioja_a6a1e6",
+        "to": "La_Rioja_a6a1e6_agoncillo_case_90e8f6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "La_Rioja_a6a1e6",
+        "to": "La_Rioja_a6a1e6_aviation_links_07ea7f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "La_Rioja_a6a1e6_1970s_ufo_wave_908a2e",
+        "to": "La_Rioja_a6a1e6_agoncillo_case_90e8f6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "La_Rioja_a6a1e6_1970s_ufo_wave_908a2e",
+        "to": "La_Rioja_a6a1e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "La_Rioja_a6a1e6_agoncillo_case_90e8f6",
+        "to": "La_Rioja_a6a1e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "La_Rioja_a6a1e6_aviation_links_07ea7f",
+        "to": "La_Rioja_a6a1e6_agoncillo_case_90e8f6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "La_Rioja_a6a1e6_aviation_links_07ea7f",
+        "to": "La_Rioja_a6a1e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "La_Rioja_a6a1e6_evidence_debates_64521f",
+        "to": "La_Rioja_a6a1e6_agoncillo_case_90e8f6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "La_Rioja_a6a1e6_evidence_debates_64521f",
+        "to": "La_Rioja_a6a1e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alicante_46e2a1",
+        "to": "Alicante_46e2a1_costa_blanca_ufo_cul_8512b2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alicante_46e2a1_aitana_1986_dossier_0e96c6",
+        "to": "Alicante_46e2a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alicante_46e2a1_aitana_1975_incident_fece96",
+        "to": "Alicante_46e2a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alicante_46e2a1_aitana_1979_radar_al_82de41",
+        "to": "Alicante_46e2a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alicante_46e2a1_costa_blanca_ufo_cul_8512b2",
+        "to": "Alicante_46e2a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Albacete_3f7c9a_conventional_light_e_961670",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Albacete_3f7c9a_los_llanos_airbase_r_a1508a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albacete_3f7c9a",
+        "to": "Albacete_3f7c9a_manises_fighter_scra_7594ae",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albacete_3f7c9a_conventional_light_e_961670",
+        "to": "Albacete_3f7c9a_los_llanos_airbase_r_a1508a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albacete_3f7c9a_conventional_light_e_961670",
+        "to": "Albacete_3f7c9a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albacete_3f7c9a_los_llanos_airbase_r_a1508a",
+        "to": "Albacete_3f7c9a_conventional_light_e_961670",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albacete_3f7c9a_los_llanos_airbase_r_a1508a",
+        "to": "Albacete_3f7c9a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albacete_3f7c9a_manises_fighter_scra_7594ae",
+        "to": "Albacete_3f7c9a_los_llanos_airbase_r_a1508a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albacete_3f7c9a_manises_fighter_scra_7594ae",
+        "to": "Albacete_3f7c9a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albacete_3f7c9a_official_files_evide_a255c3",
+        "to": "Albacete_3f7c9a_conventional_light_e_961670",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albacete_3f7c9a_official_files_evide_a255c3",
+        "to": "Albacete_3f7c9a_los_llanos_airbase_r_a1508a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albacete_3f7c9a_official_files_evide_a255c3",
+        "to": "Albacete_3f7c9a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Avila_9a1863",
+        "to": "Avila_9a1863_1976_fireball_deff6a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Avila_9a1863",
+        "to": "Avila_9a1863_cebreros_space_myths_6ce3c4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Avila_9a1863_cebreros_space_myths_6ce3c4",
+        "to": "Avila_9a1863",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Avila_9a1863_rural_misidentificat_408e73",
+        "to": "Avila_9a1863",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barcelona_122a41",
+        "to": "Barcelona_122a41_montserrat_skywatch_b4c98d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barcelona_122a41",
+        "to": "Barcelona_122a41_barcelona_ufo_archiv_10e131",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barcelona_122a41_montserrat_skywatch_b4c98d",
+        "to": "Barcelona_122a41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barcelona_122a41_montserrat_skywatch_b4c98d",
+        "to": "Barcelona_122a41_barcelona_ufo_archiv_10e131",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barcelona_122a41_barcelona_1978_sight_5069e3",
+        "to": "Barcelona_122a41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barcelona_122a41_barcelona_ufo_archiv_10e131",
+        "to": "Barcelona_122a41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barcelona_122a41_declassified_barcelo_8939d9",
+        "to": "Barcelona_122a41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barcelona_122a41_declassified_barcelo_8939d9",
+        "to": "Barcelona_122a41_montserrat_skywatch_b4c98d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Badajoz_632079",
+        "to": "Badajoz_632079_talavera_radar_conta_87d929",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Badajoz_632079",
+        "to": "Badajoz_632079_usagre_1993_sighting_cef5c7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Badajoz_632079_badajoz_declassified_4759df",
+        "to": "Badajoz_632079",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Badajoz_632079_badajoz_declassified_4759df",
+        "to": "Badajoz_632079_talavera_radar_conta_87d929",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Badajoz_632079_talavera_1976_encoun_3025c5",
+        "to": "Badajoz_632079",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Badajoz_632079_talavera_radar_conta_87d929",
+        "to": "Badajoz_632079",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Badajoz_632079_usagre_1993_sighting_cef5c7",
+        "to": "Badajoz_632079",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Badajoz_632079_usagre_1993_sighting_cef5c7",
+        "to": "Badajoz_632079_talavera_radar_conta_87d929",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Biscay_fc6f6b",
+        "to": "Biscay_fc6f6b_flight_502_missing_t_53d46a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Biscay_fc6f6b_biscay_official_ufo_0a7dd6",
+        "to": "Biscay_fc6f6b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Biscay_fc6f6b_bilbao_airport_ufo_e_6c2f6f",
+        "to": "Biscay_fc6f6b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Biscay_fc6f6b_biscay_sightings_med_b37241",
+        "to": "Biscay_fc6f6b_flight_502_missing_t_53d46a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Biscay_fc6f6b_biscay_sightings_med_b37241",
+        "to": "Biscay_fc6f6b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Biscay_fc6f6b_flight_502_missing_t_53d46a",
+        "to": "Biscay_fc6f6b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Burgos_199e01",
+        "to": "Burgos_199e01_fuentecen_close_enco_9e8b73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Burgos_199e01",
+        "to": "Burgos_199e01_ochate_ufo_photograp_659ab6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Burgos_199e01_quintanaortuno_1975_5a8ab4",
+        "to": "Burgos_199e01",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Burgos_199e01_burgos_1970_pilot_si_7c1b84",
+        "to": "Burgos_199e01",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Burgos_199e01_fuentecen_close_enco_9e8b73",
+        "to": "Burgos_199e01",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Burgos_199e01_ochate_ufo_photograp_659ab6",
+        "to": "Burgos_199e01",
+        "type": "inline_internal"
+      },
+      {
+        "from": "A_Coruna_c18697",
+        "to": "A_Coruna_c18697_cando_explosion_lege_ff953e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "A_Coruna_c18697_ferrol_1966_sighting_35461e",
+        "to": "A_Coruna_c18697_cando_explosion_lege_ff953e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Caceres_23e6f5",
+        "to": "Caceres_23e6f5_ceclavin_lights_folk_d7b688",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Caceres_23e6f5_ceclavin_lights_folk_d7b688",
+        "to": "Caceres_23e6f5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Caceres_23e6f5_valencia_alcantara_l_2f3315",
+        "to": "Caceres_23e6f5_ceclavin_lights_folk_d7b688",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Caceres_23e6f5_valencia_alcantara_l_2f3315",
+        "to": "Caceres_23e6f5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ceuta_6791a7_ceuta_evidence_gaps_44eac3",
+        "to": "Ceuta_6791a7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ceuta_6791a7_ceuta_1954_radar_cas_54e796",
+        "to": "Ceuta_6791a7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ceuta_6791a7_ceuta_later_sighting_91536c",
+        "to": "Ceuta_6791a7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ceuta_6791a7_ceuta_radar_explanat_07f8f6",
+        "to": "Ceuta_6791a7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cordoba_c65d18_1966_roadside_encoun_7561de",
+        "to": "Cordoba_c65d18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cordoba_c65d18_identified_aerial_li_cd6976",
+        "to": "Cordoba_c65d18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cordoba_c65d18_missing_landmark_cas_c00ed1",
+        "to": "Cordoba_c65d18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cordoba_c65d18_penarroya_rock_art_c_a0a292",
+        "to": "Cordoba_c65d18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Castellon_b6b2a8_false_alarms_reentri_5a2cd8",
+        "to": "Castellon_b6b2a8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Castellon_b6b2a8_historic_strange_lig_6b631b",
+        "to": "Castellon_b6b2a8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Castellon_b6b2a8_military_witnesses_r_7c6560",
+        "to": "Castellon_b6b2a8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Castellon_b6b2a8_vinaros_1983_sightin_108270",
+        "to": "Castellon_b6b2a8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cuenca_18bceb_cuenca_1968_balloon_3d18f3",
+        "to": "Cuenca_18bceb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cuenca_18bceb_cuenca_village_sight_ceac99",
+        "to": "Cuenca_18bceb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cuenca_18bceb_september_1968_ufo_w_d38162",
+        "to": "Cuenca_18bceb_cuenca_1968_balloon_3d18f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cuenca_18bceb_september_1968_ufo_w_d38162",
+        "to": "Cuenca_18bceb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cuenca_18bceb_villares_1953_landin_bb73b0",
+        "to": "Cuenca_18bceb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Las_Palmas_c2c576",
+        "to": "Las_Palmas_c2c576_galdar_mass_sighting_4ec972",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Las_Palmas_c2c576",
+        "to": "Las_Palmas_c2c576_poseidon_missile_plu_256003",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Las_Palmas_c2c576_declassified_ufo_fil_d1b0cf",
+        "to": "Las_Palmas_c2c576",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Las_Palmas_c2c576_declassified_ufo_fil_d1b0cf",
+        "to": "Las_Palmas_c2c576_galdar_mass_sighting_4ec972",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Las_Palmas_c2c576_galdar_mass_sighting_4ec972",
+        "to": "Las_Palmas_c2c576",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}
