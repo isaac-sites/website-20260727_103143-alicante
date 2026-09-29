@@ -934,9 +934,9 @@ The fairest assessment is that the 1954 Ceuta radar incident is **unresolved but
    Link:<a href="https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap_7.html</a>  
 
 27.<a id="endnote-27"></a>
-   Source: prod-01-alb-www-noaa.woc.noaa.gov  
+   Source: noaa.gov  
    Title: anomalous propagation  
-   Link:<a href="https://prod-01-alb-www-noaa.woc.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://prod-01-alb-www-noaa.woc.noaa.gov/jetstream/anomalous-propagation</a>  
+   Link:<a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
 
 28.<a id="endnote-28"></a>
    Source: its.ntia.gov  
