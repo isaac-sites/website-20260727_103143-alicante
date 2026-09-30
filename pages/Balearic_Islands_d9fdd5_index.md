@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /balearic-islands-d9fdd5-index/
 description: Focused pages that expand on Balearic Islands.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Balearic_Islands_d9fdd5
 parent_title: Balearic Islands

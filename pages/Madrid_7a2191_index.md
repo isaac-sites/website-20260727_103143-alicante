@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /madrid-7a2191-index/
 description: Focused pages that expand on Madrid's UFO History Between Hoax and Radar.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Madrid_7a2191
 parent_title: Madrid's UFO History Between Hoax and Radar

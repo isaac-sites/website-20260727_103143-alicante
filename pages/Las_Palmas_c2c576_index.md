@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /las-palmas-c2c576-index/
 description: Focused pages that expand on Las Palmas.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Las_Palmas_c2c576
 parent_title: Las Palmas

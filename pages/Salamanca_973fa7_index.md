@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /salamanca-973fa7-index/
 description: Focused pages that expand on Salamanca's UFO Stories Between Claims and....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Salamanca_973fa7
 parent_title: Salamanca's UFO Stories Between Claims and...

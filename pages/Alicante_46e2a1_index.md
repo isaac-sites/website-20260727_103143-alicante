@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alicante-46e2a1-index/
 description: Focused pages that expand on Why Alicante's UFO Files Still Invite Debate.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alicante_46e2a1
 parent_title: Why Alicante's UFO Files Still Invite Debate

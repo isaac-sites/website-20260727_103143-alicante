@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /caceres-23e6f5-index/
 description: Focused pages that expand on How Strong Is Caceres' UFO Evidence?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Caceres_23e6f5
 parent_title: How Strong Is Caceres' UFO Evidence?
