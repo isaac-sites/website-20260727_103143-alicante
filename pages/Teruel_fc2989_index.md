@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /teruel-fc2989-index/
 description: 'Focused pages that expand on Teruel''s Unexplained Skies: Reports, Records....'
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Teruel_fc2989
 parent_title: 'Teruel''s Unexplained Skies: Reports, Records...'

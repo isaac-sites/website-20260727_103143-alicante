@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /valladolid-d2ebea-index/
 description: Focused pages that expand on Valladolid UFO Stories Beyond The Mystery.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Valladolid_d2ebea
 parent_title: Valladolid UFO Stories Beyond The Mystery

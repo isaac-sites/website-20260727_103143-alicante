@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /gipuzkoa-c8b477-index/
 description: Focused pages that expand on Gipuzkoa's UFO Stories Between Mystery And....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Gipuzkoa_c8b477
 parent_title: Gipuzkoa's UFO Stories Between Mystery And...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /lugo-3c0a46-index/
 description: 'Focused pages that expand on Lugo''s UFO Cases: Reports, Records, and....'
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Lugo_3c0a46
 parent_title: 'Lugo''s UFO Cases: Reports, Records, and...'

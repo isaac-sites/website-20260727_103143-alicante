@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cadiz-bf7148-index/
 description: Focused pages that expand on Why Cadiz Became a Spanish UFO Hotspot.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Cadiz_bf7148
 parent_title: Why Cadiz Became a Spanish UFO Hotspot

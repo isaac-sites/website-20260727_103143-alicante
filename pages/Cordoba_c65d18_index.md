@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cordoba-c65d18-index/
 description: Focused pages that expand on Why Cordoba's UFO History Resists Easy....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Cordoba_c65d18
 parent_title: Why Cordoba's UFO History Resists Easy...
