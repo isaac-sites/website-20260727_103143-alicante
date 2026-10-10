@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /badajoz-632079-index/
 description: Focused pages that expand on Badajoz UFO Cases Beyond the Famous....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Badajoz_632079
 parent_title: Badajoz UFO Cases Beyond the Famous...

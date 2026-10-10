@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /albacete-3f7c9a-index/
 description: Focused pages that expand on Why Albacete Became Central to Spain's Best....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Albacete_3f7c9a
 parent_title: Why Albacete Became Central to Spain's Best...

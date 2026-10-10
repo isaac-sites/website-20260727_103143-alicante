@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /burgos-199e01-index/
 description: Focused pages that expand on How Burgos Turned Strange Lights Into....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Burgos_199e01
 parent_title: How Burgos Turned Strange Lights Into...

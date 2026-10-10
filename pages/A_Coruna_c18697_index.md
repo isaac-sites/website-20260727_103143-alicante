@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /a-coruna-c18697-index/
 description: Focused pages that expand on The Cases That Shaped A Coruna's UFO History.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: A_Coruna_c18697
 parent_title: The Cases That Shaped A Coruna's UFO History

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alava-ef490e-index/
 description: Focused pages that expand on Alava's UFO Reports Between Mystery And....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alava_ef490e
 parent_title: Alava's UFO Reports Between Mystery And...

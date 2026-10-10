@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /palencia-b6f02b-index/
 description: Focused pages that expand on Why Palencia's UFO Record Remains So Elusive.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Palencia_b6f02b
 parent_title: Why Palencia's UFO Record Remains So Elusive

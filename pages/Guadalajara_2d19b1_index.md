@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /guadalajara-2d19b1-index/
 description: Focused pages that expand on Guadalajara.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Guadalajara_2d19b1
 parent_title: Guadalajara

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /barcelona-122a41-index/
 description: Focused pages that expand on How Strong Is Barcelona's UFO Evidence?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Barcelona_122a41
 parent_title: How Strong Is Barcelona's UFO Evidence?

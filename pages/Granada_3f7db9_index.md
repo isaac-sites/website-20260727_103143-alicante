@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /granada-3f7db9-index/
 description: Focused pages that expand on Granada's UFO History Beyond the Motril....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Granada_3f7db9
 parent_title: Granada's UFO History Beyond the Motril...

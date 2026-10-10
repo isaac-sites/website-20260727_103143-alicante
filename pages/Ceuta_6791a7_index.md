@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ceuta-6791a7-index/
 description: Focused pages that expand on Ceuta's UFO Mystery Beyond the Radar Trace.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ceuta_6791a7
 parent_title: Ceuta's UFO Mystery Beyond the Radar Trace

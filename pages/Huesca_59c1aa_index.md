@@ -8,6 +8,7 @@ permalink: /huesca-59c1aa-index/
 description: Focused pages that expand on Huesca's UFO Stories Under the Evidence
   Test.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Huesca_59c1aa
 parent_title: Huesca's UFO Stories Under the Evidence Test

@@ -221,6 +221,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-26 14:31:59'
+last_modified_at: '2026-07-26 14:31:59'
 parent_title: Ciudad Real UFOs
 parent_permalink: /how-ciudad-reals-ufo-stories-took-shape/
 parent_nav_short_title: Ciudad Real UFOs

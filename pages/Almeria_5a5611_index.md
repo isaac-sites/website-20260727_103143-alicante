@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /almeria-5a5611-index/
 description: Focused pages that expand on Why Almeria Became a Spanish UFO Hotspot.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Almeria_5a5611
 parent_title: Why Almeria Became a Spanish UFO Hotspot

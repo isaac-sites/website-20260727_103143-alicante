@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /santa-cruz-de-teneri-4ff430-index/
 description: Focused pages that expand on Santa Cruz de Tenerife.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Santa_Cruz_de_Teneri_4ff430
 parent_title: Santa Cruz de Tenerife

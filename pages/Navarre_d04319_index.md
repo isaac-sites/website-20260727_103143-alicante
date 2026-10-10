@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /navarre-d04319-index/
 description: Focused pages that expand on Navarre's UFO Story Beyond the Mystery.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Navarre_d04319
 parent_title: Navarre's UFO Story Beyond the Mystery
