@@ -965,21 +965,21 @@ Within A Coruas wider UFO record, the 1993 report is consequently less mysteriou
 
 39.<a id="endnote-39"></a>
    Source: amsmeteors.org  
-   Link:<a href="https://www.amsmeteors.org/members/imo_view/report/113948" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/members/imo_view/report/113948</a>  
+   Link:https://www.amsmeteors.org/members/imo_view/report/113948  
 
 40.<a id="endnote-40"></a>
    Source: amsmeteors.org  
    Title: Fireball Logs  
-   Link:<a href="https://www.amsmeteors.org/fireballs/fireball-report/page/3/?fireball_id=14399" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/page/3/?fireball_id=14399</a>  
+   Link:https://www.amsmeteors.org/fireballs/fireball-report/page/3/?fireball_id=14399  
 
 41.<a id="endnote-41"></a>
    Source: amsmeteors.org  
    Title: US A Fireball  
-   Link:<a href="https://www.amsmeteors.org/tag/usa-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/tag/usa-fireball/</a>  
+   Link:https://www.amsmeteors.org/tag/usa-fireball/  
 
 42.<a id="endnote-42"></a>
    Source: amsmeteors.org  
-   Link:<a href="https://www.amsmeteors.org/members/imo_view/event/2026/536" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/members/imo_view/event/2026/536</a>  
+   Link:https://www.amsmeteors.org/members/imo_view/event/2026/536  
 
 43.<a id="endnote-43"></a>
    Source: exociencias.wordpress.com  
