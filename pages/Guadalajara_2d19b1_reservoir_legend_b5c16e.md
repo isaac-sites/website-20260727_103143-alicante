@@ -855,7 +855,6 @@ Sacedón therefore illustrates how an unresolved case can acquire a more dramati
 
 5.<a id="endnote-5"></a>
    Source: nap.nationalacademies.org  
-   Link:https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=1-8&amp;record_id=18891  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>As this report indicates, however, the malleable nature of human visual perception, memory, and confidence; the imperfect ability to reco...</p></details>
 
 6.<a id="endnote-6"></a>
